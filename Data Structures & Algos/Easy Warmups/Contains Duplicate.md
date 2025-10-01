@@ -9,5 +9,13 @@
 - Space is O(n) - Seen array will be up to as large as our dataset
 - Time is O(n) - Will scale based on size of array "n" 
 
-## Solution: 
 
+
+
+
+
+
+
+
+## Solution: 
+![[Contains Duplicate-1.png]]
