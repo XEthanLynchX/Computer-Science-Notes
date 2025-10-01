@@ -1,0 +1,327 @@
+{
+  "main": {
+    "id": "a59f4f8ee60051db",
+    "type": "split",
+    "children": [
+      {
+        "id": "efc4ba20561d6250",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2598534babf3b349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science Major/Computer Science Major.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Computer Science Major"
+            }
+          },
+          {
+            "id": "07849c6fa8ab5be2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures & Algos/Data Structures and Algorithms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Data Structures and Algorithms"
+            }
+          },
+          {
+            "id": "15d201662a72f36a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures & Algos/Easy Warmups/Contains Duplicate.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Contains Duplicate"
+            }
+          },
+          {
+            "id": "3776db419cd53a86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FizzBuzz.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "FizzBuzz"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b17e242b95f5a96",
+    "type": "split",
+    "children": [
+      {
+        "id": "da2b3854e2c67411",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a246c31886d16db6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4602c9954ea8b275",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d6f10622a546c7ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "71d47641e5d7b66d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b3fa3a03c084c97",
+    "type": "split",
+    "children": [
+      {
+        "id": "f942362794320f9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b57883a9f43d96f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Structures & Algos/Easy Warmups/Contains Duplicate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Contains Duplicate"
+            }
+          },
+          {
+            "id": "e26d46a140e15ad8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8f322ec704161c60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f0fbb2d63659a474",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Structures & Algos/Easy Warmups/Contains Duplicate.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Contains Duplicate"
+            }
+          },
+          {
+            "id": "6f61fc66d81cb6d2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "15d201662a72f36a",
+  "lastOpenFiles": [
+    "Data Structures & Algos/Easy Warmups/Easy Warmups.md",
+    "FizzBuzz.md",
+    "Data Structures & Algos/Data Structures and Algorithms.md",
+    "2025-W40.md",
+    "2025-10-01.md",
+    "Data Structures & Algos/Easy Warmups/Contains Duplicate.md",
+    "Data Structures & Algos/imgs",
+    "Data Structures & Algos/imgs/Pasted image 20250930222000.png",
+    "Data Structures & Algos/Easy Warmups",
+    "Data Structures & Algos/Data Structures.md",
+    "Computer Science Major/Computer Science Major.md",
+    "Math/Math.md",
+    "Data Structures & Algos",
+    "Math/Calculus 1/Homework/3.1 Homework.md",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20250923205420_080.png",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20250923205028_521.png",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20250923204302_068.png",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20250923203938_146.png",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20250923020911_570.png",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20250923015355_939.png",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20250923014832_959.png",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20250923012721_163.png",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20250923012001_767.png",
+    "Math/Calculus 1/Study Guides/2.1 - 2.7 Study Guide.md",
+    "Math/Calculus 1/Homework/2.7 Homework.md",
+    "Math",
+    "Math/Calculus 1/Calculus 1.md",
+    "Math/Calculus 1/Lecture Notes & Additional Notes/3.1 Definition of Derivatives.md",
+    "Math/Calculus 1/Lecture Notes & Additional Notes/2.8 Intermediate Value Theorem.md",
+    "Excalidraw/Drawing 2025-09-23 00.59.07.excalidraw.md",
+    "Math/Calculus 1/Study Guides",
+    "Math/Calculus 1/Homework",
+    "Math/Calculus 1/Lecture Notes & Additional Notes",
+    "Math/Calculus 1/Homework/2.8 Homework.md",
+    "Excalidraw",
+    "Math/Calculus 1/Lecture Notes & Additional Notes/2.7 Limits At Infinity.md",
+    "2.8.md",
+    "Math/Calculus 1/Calculc Problems png",
+    "Computer Science Major/Calculus 1/2.6 Homework.md",
+    "2.6 Homework.md",
+    "Math/Calculus 1/Calculc Problems png/Excalidraw",
+    "Computer Science Major/Untitled/hi.md",
+    "Computer Science Major/Untitled/Drawing 2025-09-15 17.53.31.excalidraw.md",
+    "Computer Science Major.md",
+    "Calculus 1.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2025-09-15 17.52.55.excalidraw.md"
+  ]
+}
