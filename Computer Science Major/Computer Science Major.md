@@ -3,10 +3,12 @@
 
 # [[Programming Courses]]
 
-# [[ Social Studies Courses ]]
+# [[Social Studies]]
 
 # [[Science]]
 
 # [[Data Structures and Algorithms ]]
 
-# [[Projects]]
+# [[Projects/Projects]]
+
+# [[Dev Role]]

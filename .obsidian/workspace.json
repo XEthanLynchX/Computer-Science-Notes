@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "efc4ba20561d6250",
+        "id": "78142b0095af2370",
         "type": "tabs",
         "children": [
           {
-            "id": "07849c6fa8ab5be2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Data Structures & Algos/imgs/Contains Duplicate-1.png"
-              },
-              "icon": "lucide-image",
-              "title": "Contains Duplicate-1"
-            }
-          },
-          {
-            "id": "15d201662a72f36a",
+            "id": "960146eae8e05ef0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Easy Warmups/FizzBuzz.md",
+                "file": "Angel Oak/Notes/TypeScript.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,19 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "FizzBuzz"
+              "title": "TypeScript"
             }
           },
           {
-            "id": "3776db419cd53a86",
+            "id": "bc15ea0ce243307d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/imgs/FizzBuzz.png"
+                "file": "Angel Oak/Notes/AzureDurableFunctions.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "FizzBuzz"
+              "icon": "lucide-file",
+              "title": "AzureDurableFunctions"
             }
           }
         ],
@@ -115,8 +115,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -223,57 +223,58 @@
       "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "15d201662a72f36a",
+  "active": "bc15ea0ce243307d",
   "lastOpenFiles": [
-    "Data Structures & Algos/imgs/FizzBuzz 1.png",
-    "Data Structures & Algos/imgs/Contains Duplicate-1.png",
-    "Data Structures & Algos/imgs/Pasted image 20250930222000.png",
+    "Angel Oak/Notes/Deployment to Devops.md",
+    "Angel Oak/Notes/Notes.md",
+    "Angel Oak/Notes/Jest.md",
+    "Angel Oak/Notes/NPM packages.md",
+    "Angel Oak/Notes/TypeScript.md",
+    "Angel Oak/Notes/AzureDurableFunctions.md",
+    "Angel Oak/Notes/DevOps.md",
+    "Angel Oak/Projects/GraphService.md",
+    "Angel Oak/Projects/GraphPrototype.md",
+    "Angel Oak/Projects/Graph Client.md",
+    "Angel Oak/Projects/Encompass-api-ts.md",
+    "Angel Oak/Projects/AzureFunctionTemplate.md",
+    "Angel Oak/Dev Role.md",
+    "Angel Oak/Projects/Projects.md",
+    "Computer Science Major/Computer Science Major.md",
+    "Projects/Projects.md",
+    "Social Studies",
+    "Science",
+    "Programming Course",
+    "Projects",
+    "Programming Course/Programming Courses.md",
+    "Social Studies/Social Studies.md",
+    "Science/Science.md",
+    "Angel Oak/Notes",
+    "Angel Oak/Projects",
+    "Angel Oak",
     "Data Structures & Algos/imgs/FizzBuzz.png",
+    "Data Structures & Algos/imgs/Contains Duplicate-1.png",
+    "Data Structures & Algos/Data Structures and Algorithms.md",
     "Data Structures & Algos/Easy Warmups/FizzBuzz.md",
+    "Data Structures & Algos/imgs/FizzBuzz 1.png",
+    "Data Structures & Algos/imgs/Pasted image 20250930222000.png",
     "Math/Calculus 1/Homework/2.8 Homework.md",
     "Data Structures & Algos/Easy Warmups/Contains Duplicate.md",
     "Data Structures & Algos/imgs/Contains Duplicate.png",
     "Data Structures & Algos/Easy Warmups/Easy Warmups.md",
     "2025-10-01.md",
     "2025-W40.md",
-    "Data Structures & Algos/Data Structures and Algorithms.md",
-    "Math/Calculus 1/Homework/3.1 Homework.md",
-    "Math/Calculus 1/Calculus 1.md",
-    "Math/Math.md",
-    "Computer Science Major/Computer Science Major.md",
-    "Math/Calculus 1/Lecture Notes & Additional Notes/2.8 Intermediate Value Theorem.md",
     "Data Structures & Algos/imgs",
     "Data Structures & Algos/Easy Warmups",
-    "Data Structures & Algos/Data Structures.md",
     "Data Structures & Algos",
     "Math/Calculus 1/Calculc Problems png/Pasted Image 20250923205420_080.png",
     "Math/Calculus 1/Calculc Problems png/Pasted Image 20250923205028_521.png",
     "Math/Calculus 1/Calculc Problems png/Pasted Image 20250923204302_068.png",
     "Math/Calculus 1/Calculc Problems png/Pasted Image 20250923203938_146.png",
     "Math/Calculus 1/Calculc Problems png/Pasted Image 20250923020911_570.png",
-    "Math/Calculus 1/Calculc Problems png/Pasted Image 20250923015355_939.png",
-    "Math/Calculus 1/Study Guides/2.1 - 2.7 Study Guide.md",
-    "Math/Calculus 1/Homework/2.7 Homework.md",
-    "Math",
-    "Math/Calculus 1/Lecture Notes & Additional Notes/3.1 Definition of Derivatives.md",
-    "Excalidraw/Drawing 2025-09-23 00.59.07.excalidraw.md",
-    "Math/Calculus 1/Study Guides",
-    "Math/Calculus 1/Homework",
-    "Math/Calculus 1/Lecture Notes & Additional Notes",
-    "Excalidraw",
-    "Math/Calculus 1/Lecture Notes & Additional Notes/2.7 Limits At Infinity.md",
-    "2.8.md",
-    "Math/Calculus 1/Calculc Problems png",
-    "Computer Science Major/Calculus 1/2.6 Homework.md",
-    "2.6 Homework.md",
-    "Math/Calculus 1/Calculc Problems png/Excalidraw",
-    "Computer Science Major/Untitled/hi.md",
-    "Computer Science Major/Untitled/Drawing 2025-09-15 17.53.31.excalidraw.md",
-    "Computer Science Major.md",
-    "Calculus 1.md",
     "Untitled.canvas"
   ]
 }
