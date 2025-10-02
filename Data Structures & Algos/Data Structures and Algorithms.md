@@ -1,1 +1,2 @@
 [[ Easy Warmups]]
+[[Python Functions]]
