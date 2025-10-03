@@ -2,3 +2,5 @@
 2. [[FizzBuzz]]
 3. [[Pangram]]
 4. [[Reverse Vowels]]
+5. [[Valid Palindrome]]
+6. [[Valid Anagram]]
