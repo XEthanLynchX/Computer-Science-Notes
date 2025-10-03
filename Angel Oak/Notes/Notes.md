@@ -4,3 +4,5 @@
 [[NPM packages]]
 [[TypeScript]]
 [[CAB Requests]]
+[[Git]]
+[[Design Logic]]

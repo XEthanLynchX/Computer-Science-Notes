@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4b69c22218b3d16b",
+        "id": "78142b0095af2370",
         "type": "tabs",
         "children": [
           {
-            "id": "b73fb277f0710776",
+            "id": "2eb4027a65cffd68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus 1/Worksheets/Worksheets.md",
+                "file": "Angel Oak/Notes/Design Logic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Worksheets"
-            }
-          },
-          {
-            "id": "9232dabc945dd031",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures & Algos/Easy Warmups/Reverse Vowels.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Reverse Vowels"
+              "title": "Design Logic"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,8 +90,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -214,7 +189,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -224,57 +198,58 @@
       "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a246c31886d16db6",
+  "active": "2eb4027a65cffd68",
   "lastOpenFiles": [
-    "Data Structures & Algos/imgs/Reverse Vowels Solutions.png",
-    "Pasted image 20251002205749.png",
-    "Data Structures & Algos/Easy Warmups/Reverse Vowels.md",
-    "Data Structures & Algos/Easy Warmups/Pangram.md",
-    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251001215018_034.png",
-    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251001204203_294.png",
-    "Data Structures & Algos/imgs/Reverse Vowels.png",
-    "Data Structures & Algos/Easy Warmups/Easy Warmups.md",
-    "Data Structures & Algos/Easy Warmups/Contains Duplicate.md",
-    "Data Structures & Algos/Easy Warmups/Untitled.md",
-    "Angel Oak/Projects/AzureFunctionTemplate.md",
-    "Angel Oak/Projects/Encompass-api-ts.md",
-    "Angel Oak/Dev Role.md",
-    "Math/Calculus 1/Worksheets/Worksheets.md",
-    "Math/Calculus 1/Worksheets/3.2 Worksheet.md",
-    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251001203820_817.png",
-    "Math/Calculus 1/Worksheets/3.3 Worksheet.md",
-    "Math/Calculus 1/Worksheets/Untitled",
-    "Math/Calculus 1/Calculus 1.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Math/Calculus 1/Worksheets",
-    "Social Studies/Social Studies.md",
-    "Social Studies",
-    "Science/Science.md",
-    "Science",
-    "Projects/Projects.md",
-    "Projects",
-    "Programming Course/Programming Courses.md",
-    "Programming Course",
-    "Data Structures & Algos/imgs/Pangram.png",
-    "Data Structures & Algos/imgs/Pangram 1.png",
-    "Data Structures & Algos/Python functions/Removing Spaces.md",
-    "Data Structures & Algos/Python functions/Python Functions.md",
-    "Data Structures & Algos/Python functions/Alphanumeric Characters.md",
-    "Data Structures & Algos/Python functions",
-    "Angel Oak/Notes/imgs/CAB Request.png",
+    "Angel Oak/Notes/Notes.md",
     "Angel Oak/Notes/TypeScript.md",
     "Angel Oak/Notes/NPM packages.md",
-    "Angel Oak/Notes/Notes.md",
+    "Angel Oak/Notes/Git.md",
+    "Angel Oak/Notes/Deployment to Devops.md",
     "Angel Oak/Notes/Jest.md",
+    "Data Structures & Algos/Easy Warmups/Reverse Vowels.md",
+    "Data Structures & Algos/Easy Warmups/Pangram.md",
+    "Math/Calculus 1/Worksheets/Worksheets.md",
+    "Math/Calculus 1/Worksheets/3.3 Worksheet.md",
+    "Math/Calculus 1/Worksheets/3.2 Worksheet.md",
+    "Math/Calculus 1/Worksheets",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251001215018_034.png",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251001204203_294.png",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251001203820_817.png",
+    "Data Structures & Algos/imgs/Reverse Vowels.png",
+    "Data Structures & Algos/imgs/Reverse Vowels Solutions.png",
+    "Data Structures & Algos/imgs/Pangram 1.png",
+    "Data Structures & Algos/imgs/Pangram.png",
+    "Data Structures & Algos/Easy Warmups/FizzBuzz.md",
+    "Data Structures & Algos/imgs/Pasted image 20250930222000.png",
+    "Data Structures & Algos/Easy Warmups/Contains Duplicate.md",
+    "Math/Calculus 1/Homework/3.1 Homework.md",
+    "Math/Calculus 1/Homework/2.8 Homework.md",
+    "Angel Oak/Projects/Graph Client.md",
+    "Math/Calculus 1/Lecture Notes & Additional Notes/2.8 Intermediate Value Theorem.md",
+    "Data Structures & Algos/Python functions/Python Functions.md",
+    "2025-10-01.md",
+    "Angel Oak/Notes/imgs/CAB Request.png",
+    "Angel Oak/Notes/CAB Requests.md",
+    "Angel Oak/Notes/AzureDurableFunctions.md",
+    "Angel Oak/Projects/GraphService.md",
+    "Angel Oak/Dev Role.md",
+    "Angel Oak/Notes/Design Logic.md",
+    "CAB Requests.png",
     "Angel Oak/Notes/imgs",
+    "Data Structures & Algos/Python functions/Removing Spaces.md",
+    "Data Structures & Algos/Python functions/Alphanumeric Characters.md",
+    "Data Structures & Algos/Python functions",
+    "Social Studies",
+    "Science",
+    "Programming Course",
+    "Projects",
     "Angel Oak/Notes",
     "Angel Oak/Projects",
-    "Data Structures & Algos/imgs/FizzBuzz.png",
-    "Data Structures & Algos/imgs/Contains Duplicate-1.png",
+    "Angel Oak",
     "Untitled.canvas"
   ]
 }

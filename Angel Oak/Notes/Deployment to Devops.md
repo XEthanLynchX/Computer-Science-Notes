@@ -20,11 +20,21 @@ trigger:
 
 pool:
 
-  vmImage: 'ubuntu-latest'
+  vmImage: ubuntu-latest
 
   
 
 steps:
+
+- task: NodeTool@0
+
+  inputs:
+
+    versionSpec: '20.x'
+
+  displayName: 'Install Node.js'
+
+  
 
 - script: |
 
@@ -32,50 +42,128 @@ steps:
 
     npm run build
 
-    npm prune --production
+  displayName: 'npm install and build'
 
-    npm run audit:high
-
-    # Create a clean folder with only what we want
-
-    mkdir package
-
-    cp package.json package/
-
-    cp host.json package/
-
-    cp -R dist package/
-
-    cp -R node_modules package/
-
-  workingDirectory: '$(System.DefaultWorkingDirectory)'
-
-  displayName: 'Build, prune and audit'
-
-  
-
-- task: ArchiveFiles@2
-
-  displayName: "Archive files"
+- task: CopyFiles@2
 
   inputs:
 
-    rootFolderOrFile: "$(System.DefaultWorkingDirectory)/package"
+    contents: 'dist/**'
 
-    includeRootFolder: false
+    targetFolder: $(Build.ArtifactStagingDirectory)
 
-    archiveFile: "$(System.DefaultWorkingDirectory)/build$(Build.BuildId).zip"
+- task: CopyFiles@2
+
+  inputs:
+
+    contents: 'package.json'
+
+    targetFolder: $(Build.ArtifactStagingDirectory)
+
+    task: CopyFiles@2
+
+- task: CopyFiles@2
+
+  inputs:
+
+    contents: '.npmrc'
+
+    targetFolder: $(Build.ArtifactStagingDirectory)
+
+- task: CopyFiles@2
+
+  inputs:
+
+    contents: 'README.md'
+
+    targetFolder: $(Build.ArtifactStagingDirectory)
 
 - task: PublishBuildArtifacts@1
 
   inputs:
 
-    PathtoPublish: '$(System.DefaultWorkingDirectory)/build$(Build.BuildId).zip'
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
 
-    artifactName: 'drop'
+    ArtifactName: 'graph-client'
+
+    publishLocation: 'Container'
 ```
 
 ---
+
+## Tasks and Their Functions
+### 1. NodeTool@0
+- Installs a specific version of Node.js
+```yaml 
+- task: NodeTool@0
+
+  inputs:
+
+    versionSpec: '20.x'
+```
+
+### 2. CopyFile@2 
+- Copies files from one place to another (example repo to artifact) 
+- Not necessary however if you're using Archive(For DevOps build folder)
+``` yaml 
+- task: CopyFiles@2
+
+  inputs:
+
+    contents: '**/*.js'
+
+    targetFolder: '$(Build.ArtifactStagingDirectory)'
+```
+
+### 3. ArchiveFiles@2
+- Creates a ZIP folder archive from a specified folder or set of files. Mainly used to package builds for deplyment and create downloadable artifacts for release pipelines
+- Pair this with an .artifactignore to exclude files from the build folder (Ex: src folder and only package production dependencies)
+``` yaml
+- task: ArchiveFiles@2
+
+  inputs:
+
+    rootFolderOrFile: '$(Build.ArtifactStagingDirectory)'
+
+    includeRootFolder: false
+
+    archiveType: 'zip'
+
+    archiveFile: '$(Build.ArtifactStagingDirectory)/output.zip'
+
+    replaceExistingArchive: true
+```
+
+### 4. AzureFunctionApp@1 
+- Connects Azure subscription using service connection string 
+- Deploys ZIP package containing compiled app to specified Azure Function App
+``` yaml 
+- task: AzureFunctionApp@1
+
+  inputs:
+
+    azureSubscription: 'MyServiceConnection'
+
+    appType: 'functionApp'
+
+    appName: 'graphservice-dev'
+
+    package: '$(Build.ArtifactStagingDirectory)/GraphService.zip'
+```
+
+### 4. PublishBuildArtifacts@1
+- Publishes files to the **Pipeline** for later use (deployment)
+``` yaml 
+- task: PublishBuildArtifacts@1
+
+  inputs:
+
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+
+    ArtifactName: 'my-artifact'
+```
+---
+
 
 ## Post-Deployment Checklist
 
