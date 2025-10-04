@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Easy Warmups/Valid Anagram.md",
+                "file": "Data Structures & Algos/Easy Warmups/Number of Good Pairs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Valid Anagram"
+              "title": "Number of Good Pairs"
             }
           }
         ],
@@ -224,16 +224,20 @@
       "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "3d47bf83f3ea9b48",
   "lastOpenFiles": [
+    "Number of Good Pairs.png",
+    "Number of Good Pairs Solution.png",
+    "Number of Good Pairs Brute Force.png",
+    "Number of Good Pairs Problem.png",
+    "Data Structures & Algos/Easy Warmups/Valid Anagram.md",
+    "Data Structures & Algos/Easy Warmups/Number of Good Pairs.md",
     "Valid Anagram Solution.png",
     "Data Structures & Algos/Easy Warmups/Valid Palindrome.md",
     "Data Structures & Algos/Python functions/Python Functions.md",
-    "Data Structures & Algos/Easy Warmups/Valid Anagram.md",
     "Valid Anagram.png",
     "Data Structures & Algos/Easy Warmups/Easy Warmups.md",
     "Math/Calculus 1/Calculus 1.md",
@@ -260,14 +264,9 @@
     "Angel Oak/Notes/Notes.md",
     "Angel Oak/Notes/TypeScript.md",
     "Angel Oak/Notes/NPM packages.md",
-    "Angel Oak/Notes/Git.md",
     "Math/Calculus 1/Worksheets",
     "Math/Calculus 1/Calculc Problems png/Pasted Image 20251001215018_034.png",
     "Math/Calculus 1/Calculc Problems png/Pasted Image 20251001204203_294.png",
-    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251001203820_817.png",
-    "Data Structures & Algos/imgs/Reverse Vowels.png",
-    "Data Structures & Algos/imgs/Reverse Vowels Solutions.png",
-    "Data Structures & Algos/imgs/Pangram 1.png",
     "Angel Oak/Notes/imgs",
     "Data Structures & Algos/Python functions",
     "Social Studies",
