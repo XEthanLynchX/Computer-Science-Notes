@@ -35,12 +35,24 @@
             "id": "3d47bf83f3ea9b48",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/imgs/Number of Good Pairs.png"
+                "file": "Data Structures & Algos/Two Pointers/Two Sum.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Number of Good Pairs"
+              "icon": "lucide-file",
+              "title": "Two Sum"
             }
           }
         ],
@@ -215,8 +227,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a246c31886d16db6",
+  "active": "3d47bf83f3ea9b48",
   "lastOpenFiles": [
+    "Data Structures & Algos/imgs/Number of Good Pairs.png",
     "Data Structures & Algos/Two Pointers/Two Sum.md",
     "Data Structures & Algos/imgs/Two Sum Problem.png",
     "Data Structures & Algos/imgs/Two Sum Solution-1.png",
@@ -232,7 +245,6 @@
     "Data Structures & Algos/imgs/Sqrt Brute Force.png",
     "Data Structures & Algos/imgs/Sqrt Problem.png",
     "Data Structures & Algos/Easy Warmups/Number of Good Pairs.md",
-    "Data Structures & Algos/imgs/Number of Good Pairs.png",
     "Data Structures & Algos/imgs/Number of Good Pairs Solution.png",
     "Data Structures & Algos/Easy Warmups/Valid Anagram.md",
     "Data Structures & Algos/Easy Warmups/Valid Palindrome.md",
