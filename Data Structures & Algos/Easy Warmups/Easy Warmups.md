@@ -4,3 +4,5 @@
 4. [[Reverse Vowels]]
 5. [[Valid Palindrome]]
 6. [[Valid Anagram]]
+7. [[Sqrt]]
+8. [[Number of Good Pairs]]
