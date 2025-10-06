@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Patterns/Two Pointer.md",
+                "file": "Data Structures & Algos/Two Pointers/Remove Duplicates from Sorted Array.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Two Pointer"
+              "title": "Remove Duplicates from Sorted Array"
             }
           }
         ],
@@ -230,6 +230,10 @@
   },
   "active": "3d47bf83f3ea9b48",
   "lastOpenFiles": [
+    "Remove Duplicates from Sorted Array.png",
+    "Data Structures & Algos/Python functions/Arrays.md",
+    "Data Structures & Algos/Two Pointers/Remove Duplicates from Sorted Array.md",
+    "Data Structures & Algos/Patterns/Two Pointer.md",
     "Data Structures & Algos/Patterns/Binary Tree BFS.md",
     "Data Structures & Algos/Patterns/Topological Sort.md",
     "Templates/Pattern Template.md",
@@ -238,8 +242,7 @@
     "Data Structures & Algos/Patterns/Sliding Window.md",
     "Data Structures & Algos/Patterns/Subset.md",
     "Data Structures & Algos/Patterns/Top K Elements.md",
-    "Data Structures & Algos/Patterns/Two Pointer.md",
-    "Top K Elements example.png",
+    "Data Structures & Algos/imgs/Top K Elements example.png",
     "Data Structures & Algos/imgs/Sliding Window Example.png",
     "Templates/LeetCode Template.md",
     "Data Structures & Algos/Patterns/8 Patterns to solve leetcode problems.md",
@@ -258,7 +261,6 @@
     "Data Structures & Algos/imgs/Sqrt Solution.png",
     "Data Structures & Algos/Two Pointers/Two Sum.md",
     "Data Structures & Algos/Two Pointers",
-    "Data Structures & Algos/Python functions/Arrays.md",
     "Data Structures & Algos/Easy Warmups/Sqrt.md",
     "Data Structures & Algos/Easy Warmups/Number of Good Pairs.md",
     "Data Structures & Algos/Easy Warmups/Valid Palindrome.md",
@@ -266,7 +268,6 @@
     "Math/Calculus 1/Calculus 1.md",
     "Data Structures & Algos/Easy Warmups/Reverse Vowels.md",
     "Data Structures & Algos/Easy Warmups/Contains Duplicate.md",
-    "Data Structures & Algos/Easy Warmups/FizzBuzz.md",
     "Templates",
     "Math/Calculus 1/Worksheets",
     "Angel Oak/Notes/imgs",
