@@ -1,7 +1,7 @@
 ---
 date: 2025-10-06
-Difficulty:
-Type:
+Difficulty: Easy
+Type: Array / Two Pointer
 ---
 
 ## **Problem: 
