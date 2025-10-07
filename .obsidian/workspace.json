@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus 1/Worksheets/Worksheets.md",
+                "file": "Data Structures & Algos/Arrays & Hashing/Product of Array Except Self.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,25 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Worksheets"
-            }
-          },
-          {
-            "id": "9232dabc945dd031",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: graph.json"
+              "title": "Product of Array Except Self"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,9 +202,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9232dabc945dd031",
+  "active": "b73fb277f0710776",
   "lastOpenFiles": [
+    "Product of Array Except Self optimal.png",
+    "Product of Array Except Self Solution.png",
+    "Data Structures & Algos/Python functions/For Looping.md",
+    "Data Structures & Algos/Arrays & Hashing/Product of Array Except Self.md",
+    "Data Structures & Algos/Python functions/List.md",
+    "Product of Array Except Self.png",
+    "Templates/LeetCode Template.md",
+    "Math/Calculus 1/Worksheets/Worksheets.md",
+    "2025-10-07.md",
+    "Computer Science Major.md",
+    "2025-10-03.md",
     "Data Structures & Algos/Data Structures and Algorithms.md",
+    "Data Structures & Algos/Two Pointers/Two Pointer Problems.md",
+    "Data Structures & Algos/Patterns/8 Patterns to solve leetcode problems.md",
+    "Data Structures & Algos/Patterns/Two Pointer.md",
+    "Data Structures & Algos/Data Structures & Algos.md",
+    "Data Structures & Algos/Patterns/Binary Tree BFS.md",
+    "Data Structures & Algos/Python functions/Python Functions.md",
+    "Data Structures & Algos/Python functions/Dictionaries.md",
+    "Data Structures & Algos/Python functions/Arrays.md",
+    "Data Structures & Algos/Python functions/Arrays vs Lists.md",
+    "Data Structures & Algos/Patterns/Top K Elements.md",
+    "Data Structures & Algos/Two Pointers/Remove Duplicates from Sorted Array.md",
+    "Data Structures & Algos/Two Pointers/Two Sum.md",
+    "Data Structures & Algos/Arrays & Hashing/Easy Warmups.md",
+    "Data Structures & Algos/Two Pointers/Square of a Sorted Array.md",
+    "Data Structures & Algos/imgs/Remove Duplicates from Sorted Array.png",
     "conflict-files-obsidian-git.md",
     "Data Structures & Algos/imgs/Number of Good Pairs Problem.png",
     "Data Structures & Algos/imgs/Number of Good Pairs Brute Force.png",
@@ -228,35 +239,10 @@
     "Data Structures & Algos/imgs/Sliding Window Example.png",
     "Data Structures & Algos/imgs/Sqrt Brute Force.png",
     "Data Structures & Algos/imgs/Sqrt Problem.png",
-    "Data Structures & Algos/imgs/Sqrt Solution.png",
-    "Data Structures & Algos/imgs/Sqrt.png",
     "Templates/Pattern Template.md",
-    "Square of a Sorted Array.png",
-    "Data Structures & Algos/Two Pointers/Two Pointer Problems.md",
-    "Data Structures & Algos/Two Pointers/Remove Duplicates from Sorted Array.md",
-    "Data Structures & Algos/Two Pointers/Two Sum.md",
-    "Data Structures & Algos/Two Pointers/Square of a Sorted Array.md",
     "Data Structures & Algos/Two Pointers",
-    "Data Structures & Algos/Python functions/Arrays.md",
-    "Data Structures & Algos/Patterns/Topological Sort.md",
-    "Data Structures & Algos/Patterns/Two Pointer.md",
-    "Data Structures & Algos/Patterns/Top K Elements.md",
-    "Data Structures & Algos/Patterns/Subset.md",
-    "Data Structures & Algos/Patterns/Modified Binary Search.md",
-    "Data Structures & Algos/Patterns/Sliding Window.md",
-    "Data Structures & Algos/Patterns/Binary Tree DFS.md",
-    "Data Structures & Algos/Patterns/8 Patterns to solve leetcode problems.md",
-    "Data Structures & Algos/Patterns/Binary Tree BFS.md",
     "Data Structures & Algos/Patterns",
-    "Data Structures & Algos/Easy Warmups/Sqrt.md",
-    "Data Structures & Algos/Easy Warmups/Number of Good Pairs.md",
-    "Data Structures & Algos/Easy Warmups/Valid Palindrome.md",
-    "Data Structures & Algos/Easy Warmups/Reverse Vowels.md",
-    "Templates/LeetCode Template.md",
     "Templates",
-    "Data Structures & Algos/Python functions/Uppercase and Lowercase.md",
-    "Data Structures & Algos/Python functions/Remove Non-Alpha Character Python.md",
-    "Data Structures & Algos/Python functions/Regex in Python.md",
     "Math/Calculus 1/Worksheets/Untitled",
     "Math/Calculus 1/Worksheets",
     "Social Studies",
