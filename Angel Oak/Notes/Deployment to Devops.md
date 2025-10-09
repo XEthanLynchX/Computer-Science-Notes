@@ -18,77 +18,127 @@ trigger:
 
   
 
-pool:
+stages:
 
-  vmImage: ubuntu-latest
+- stage: BuildAndPublish
+
+  displayName: Build and Publish Artifact
+
+  jobs:
+
+  - job: BuildJob
+
+    displayName: Build GraphService
+
+    pool:
+
+      vmImage: ubuntu-latest
+
+    steps:
+
+    - task: NodeTool@0
+
+      displayName: Use Node.js 20.x
+
+      inputs:
+
+        versionSpec: '20.x'
 
   
 
-steps:
+    - task: npmAuthenticate@0
 
-- task: NodeTool@0
+      displayName: Authenticate private npm registry
 
-  inputs:
+      inputs:
 
-    versionSpec: '20.x'
+        workingFile: '.npmrc'
 
-  displayName: 'Install Node.js'
+        customEndpoint: 'npm-ao'
 
   
 
-- script: |
+    - script: |
 
-    npm install
+        npm install
 
-    npm run build
+        npm run build
 
-  displayName: 'npm install and build'
+        npm prune --production
 
-- task: CopyFiles@2
+        npm run audit:high
 
-  inputs:
+      displayName: Install, build, prune, audit
 
-    contents: 'dist/**'
+  
 
-    targetFolder: $(Build.ArtifactStagingDirectory)
+    - task: PublishPipelineArtifact@1
 
-- task: CopyFiles@2
+      inputs:
 
-  inputs:
+        targetPath: '$(System.DefaultWorkingDirectory)'
 
-    contents: 'package.json'
+        artifact: 'build'
 
-    targetFolder: $(Build.ArtifactStagingDirectory)
+        publishLocation: 'pipeline'
 
-    task: CopyFiles@2
+  
 
-- task: CopyFiles@2
+- stage: PublishDeploymentFolder
 
-  inputs:
+  displayName: Archive and Publish Zip
 
-    contents: '.npmrc'
+  dependsOn: BuildAndPublish
 
-    targetFolder: $(Build.ArtifactStagingDirectory)
+  jobs:
 
-- task: CopyFiles@2
+  - job: ArchiveJob
 
-  inputs:
+    displayName: Archive and Publish Zip
 
-    contents: 'README.md'
+    pool:
 
-    targetFolder: $(Build.ArtifactStagingDirectory)
+      vmImage: ubuntu-latest
 
-- task: PublishBuildArtifacts@1
+    steps:
 
-  inputs:
+    - checkout: none
 
-    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    - download: current
 
-    ArtifactName: 'graph-client'
+    - task: ArchiveFiles@2
 
-    publishLocation: 'Container'
+      displayName: 'Archive files'
+
+      inputs:
+
+        rootFolderOrFile: '$(Pipeline.Workspace)/build'
+
+        includeRootFolder: false
+
+        archiveType: zip
+
+        archiveFile: $(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip
+
+        replaceExistingArchive: true
+
+    - upload: $(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip
+
+      artifact: drop
 ```
 
+## Artifact ignore
+
+```
+# Exclude everything
+**/*
+
+# Add what we want back in
+!node_modules/**
+!dist/**
+!package.json
+!host.json
+```
 ---
 
 ## Tasks and Their Functions
@@ -96,9 +146,7 @@ steps:
 - Installs a specific version of Node.js
 ```yaml 
 - task: NodeTool@0
-
   inputs:
-
     versionSpec: '20.x'
 ```
 
@@ -107,30 +155,21 @@ steps:
 - Not necessary however if you're using Archive(For DevOps build folder)
 ``` yaml 
 - task: CopyFiles@2
-
   inputs:
-
     contents: '**/*.js'
-
     targetFolder: '$(Build.ArtifactStagingDirectory)'
 ```
 
 ### 3. ArchiveFiles@2
 - Creates a ZIP folder archive from a specified folder or set of files. Mainly used to package builds for deplyment and create downloadable artifacts for release pipelines
-- Pair this with an .artifactignore to exclude files from the build folder (Ex: src folder and only package production dependencies)
+- Does not respect .artifactignore
 ``` yaml
 - task: ArchiveFiles@2
-
   inputs:
-
     rootFolderOrFile: '$(Build.ArtifactStagingDirectory)'
-
     includeRootFolder: false
-
     archiveType: 'zip'
-
     archiveFile: '$(Build.ArtifactStagingDirectory)/output.zip'
-
     replaceExistingArchive: true
 ```
 
@@ -139,15 +178,10 @@ steps:
 - Deploys ZIP package containing compiled app to specified Azure Function App
 ``` yaml 
 - task: AzureFunctionApp@1
-
   inputs:
-
     azureSubscription: 'MyServiceConnection'
-
     appType: 'functionApp'
-
     appName: 'graphservice-dev'
-
     package: '$(Build.ArtifactStagingDirectory)/GraphService.zip'
 ```
 
@@ -155,16 +189,22 @@ steps:
 - Publishes files to the **Pipeline** for later use (deployment)
 ``` yaml 
 - task: PublishBuildArtifacts@1
-
   inputs:
-
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
-
     ArtifactName: 'my-artifact'
 ```
+## 5.  PublishPipelineArtifact@1 
+- This respects the artifact ignore however it does not ZIP the file 
+
+```yaml
+- task: PublishPipelineArtifact@1
+  inputs:
+    targetPath: '$(System.DefaultWorkingDirectory)'
+    artifact: 'build'
+    publishLocation: 'pipeline'
+```
+
 ---
-
-
 ## Post-Deployment Checklist
 
 - Confirm build succeeded within DevOps and github

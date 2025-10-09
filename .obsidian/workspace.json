@@ -18,8 +18,23 @@
               "icon": "excalidraw-icon",
               "title": "3.5 Worksheet"
             }
+          },
+          {
+            "id": "d8f0a5fc96eaffd3",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,18 +205,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ee50fc4ed1e44cab",
+  "active": "d8f0a5fc96eaffd3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Math/Calculus 1/Worksheets/3.5 Worksheet.md",
-    "Pasted Image 20251008223302_044.png",
-    "Pasted Image 20251008215351_298.png",
-    "Pasted Image 20251008205946_886.png",
-    "Data Structures & Algos/imgs/Product of Array Except Self.png",
+    "Data Structures & Algos/imgs/Two Sum 2.png",
+    "Data Structures & Algos/imgs/Two Sum 2-1.png",
+    "Data Structures & Algos/imgs/Two Sum 2 Solution.png",
+    "Data Structures & Algos/imgs/Two Sum 2 Problem.png",
+    "Data Structures & Algos/imgs/Pasted Image 20251008223302_044.png",
+    "Data Structures & Algos/imgs/Pasted Image 20251008215351_298.png",
+    "Data Structures & Algos/imgs/Pasted Image 20251008205946_886.png",
+    "Data Structures & Algos/imgs/Longest Consecutive Sequence Solution.png",
+    "Data Structures & Algos/imgs/Longest Consecutive Sequence Problem.png",
+    "Data Structures & Algos/imgs/Longest Consecutive Sequence Brute.png",
+    "Data Structures & Algos/Two Pointers/Two Sum 2.md",
+    "Data Structures & Algos/Arrays & Hashing/Longest Consecutive Sequence.md",
     "Math/Calculus 1/Worksheets/3.4 Worksheet.md",
     "Data Structures & Algos/Arrays & Hashing/Product of Array Except Self.md",
     "Math/Calculus 1/Worksheets/Untitled.md",
-    "Data Structures & Algos/imgs/Product of Array Except Self optimal.png",
-    "Data Structures & Algos/imgs/Product of Array Except Self Solution.png",
     "Data Structures & Algos/Python functions/For Looping.md",
     "Data Structures & Algos/Python functions/List.md",
     "Templates/LeetCode Template.md",
@@ -221,12 +243,6 @@
     "Data Structures & Algos/Python functions/Arrays vs Lists.md",
     "Data Structures & Algos/Patterns/Top K Elements.md",
     "Data Structures & Algos/Two Pointers/Remove Duplicates from Sorted Array.md",
-    "Data Structures & Algos/Two Pointers/Two Sum.md",
-    "Data Structures & Algos/Arrays & Hashing/Easy Warmups.md",
-    "Data Structures & Algos/imgs/Remove Duplicates from Sorted Array.png",
-    "Data Structures & Algos/imgs/Number of Good Pairs Problem.png",
-    "Data Structures & Algos/imgs/Number of Good Pairs Brute Force.png",
-    "Data Structures & Algos/imgs/Number of Good Pairs.png",
     "Data Structures & Algos/Two Pointers",
     "Data Structures & Algos/Patterns",
     "Templates",
