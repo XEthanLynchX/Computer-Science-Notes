@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Patterns/Sliding Window.md",
+                "file": "Angel Oak/Notes/Deployment to Devops.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sliding Window"
+              "title": "Deployment to Devops"
             }
           }
         ],
@@ -229,6 +229,7 @@
   },
   "active": "3d47bf83f3ea9b48",
   "lastOpenFiles": [
+    "Data Structures & Algos/Patterns/Sliding Window.md",
     "Data Structures & Algos/Two Pointers/Two Sum 2.md",
     "Two Sum 2 Solution.png",
     "Two Sum 2 Solution.png",
@@ -254,7 +255,6 @@
     "Data Structures & Algos/Patterns/Topological Sort.md",
     "Templates/Pattern Template.md",
     "Data Structures & Algos/Patterns/Binary Tree DFS.md",
-    "Data Structures & Algos/Patterns/Sliding Window.md",
     "Data Structures & Algos/Patterns/Subset.md",
     "Data Structures & Algos/Patterns/Top K Elements.md",
     "Templates/LeetCode Template.md",
