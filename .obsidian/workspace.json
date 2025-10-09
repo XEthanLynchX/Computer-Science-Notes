@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4b69c22218b3d16b",
+        "id": "8b8831d0593e2348",
         "type": "tabs",
         "children": [
           {
-            "id": "b73fb277f0710776",
+            "id": "ee50fc4ed1e44cab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Data Structures & Algos/Arrays & Hashing/Product of Array Except Self.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Excalidraw/3.5 Worksheet.md"
               },
-              "icon": "lucide-file",
-              "title": "Product of Array Except Self"
+              "icon": "excalidraw-icon",
+              "title": "3.5 Worksheet"
             }
           }
         ]
@@ -198,18 +186,24 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b73fb277f0710776",
+  "active": "ee50fc4ed1e44cab",
   "lastOpenFiles": [
-    "Product of Array Except Self optimal.png",
-    "Product of Array Except Self Solution.png",
-    "Data Structures & Algos/Python functions/For Looping.md",
+    "Pasted Image 20251008223302_044.png",
+    "Pasted Image 20251008215351_298.png",
+    "Pasted Image 20251008205946_886.png",
+    "Data Structures & Algos/imgs/Product of Array Except Self.png",
+    "Excalidraw/3.5 Worksheet.md",
+    "Math/Calculus 1/Worksheets/3.4 Worksheet.md",
     "Data Structures & Algos/Arrays & Hashing/Product of Array Except Self.md",
+    "Math/Calculus 1/Worksheets/Untitled.md",
+    "Data Structures & Algos/imgs/Product of Array Except Self optimal.png",
+    "Data Structures & Algos/imgs/Product of Array Except Self Solution.png",
+    "Data Structures & Algos/Python functions/For Looping.md",
     "Data Structures & Algos/Python functions/List.md",
-    "Product of Array Except Self.png",
     "Templates/LeetCode Template.md",
     "Math/Calculus 1/Worksheets/Worksheets.md",
     "2025-10-07.md",
@@ -229,17 +223,11 @@
     "Data Structures & Algos/Two Pointers/Remove Duplicates from Sorted Array.md",
     "Data Structures & Algos/Two Pointers/Two Sum.md",
     "Data Structures & Algos/Arrays & Hashing/Easy Warmups.md",
-    "Data Structures & Algos/Two Pointers/Square of a Sorted Array.md",
     "Data Structures & Algos/imgs/Remove Duplicates from Sorted Array.png",
-    "conflict-files-obsidian-git.md",
     "Data Structures & Algos/imgs/Number of Good Pairs Problem.png",
     "Data Structures & Algos/imgs/Number of Good Pairs Brute Force.png",
     "Data Structures & Algos/imgs/Number of Good Pairs.png",
     "Data Structures & Algos/imgs/Number of Good Pairs Solution.png",
-    "Data Structures & Algos/imgs/Sliding Window Example.png",
-    "Data Structures & Algos/imgs/Sqrt Brute Force.png",
-    "Data Structures & Algos/imgs/Sqrt Problem.png",
-    "Templates/Pattern Template.md",
     "Data Structures & Algos/Two Pointers",
     "Data Structures & Algos/Patterns",
     "Templates",
