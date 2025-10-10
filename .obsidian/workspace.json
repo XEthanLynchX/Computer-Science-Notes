@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Python functions/Python Functions.md",
+                "file": "Angel Oak/Notes/Deployment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Python Functions"
-            }
-          },
-          {
-            "id": "3d47bf83f3ea9b48",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Data Structures & Algos/imgs/Pasted Image 20251008205946_886.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20251008205946_886"
+              "title": "Deployment"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures & Algos/Easy Warmups/FizzBuzz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for FizzBuzz"
+              "title": "Backlinks"
             }
           },
           {
@@ -215,14 +201,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a246c31886d16db6",
+  "active": "0fab17eed0255325",
   "lastOpenFiles": [
+    "Angel Oak/Notes/Deployment.md",
+    "Data Structures & Algos/Two Pointers/Two Sum 2.md",
+    "Data Structures & Algos/Two Pointers/Remove Duplicates from Sorted Array.md",
+    "Data Structures & Algos/Python functions/Python Functions.md",
+    "Data Structures & Algos/imgs/Pasted Image 20251008205946_886.png",
     "Data Structures & Algos/Arrays & Hashing/Longest Consecutive Sequence.md",
     "Angel Oak/Notes/Deployment to Devops.md",
     "conflict-files-obsidian-git.md",
     "Data Structures & Algos/imgs/Pasted Image 20251008223302_044.png",
     "Data Structures & Algos/imgs/Pasted Image 20251008215351_298.png",
-    "Data Structures & Algos/imgs/Pasted Image 20251008205946_886.png",
     "Math/Calculus 1/Worksheets/3.4 Worksheet.md",
     "Excalidraw/3.5 Worksheet.md",
     "Excalidraw",
@@ -247,14 +237,10 @@
     "Computer Science Major.md",
     "2025-10-07.md",
     "Data Structures & Algos/Patterns/Sliding Window.md",
-    "Data Structures & Algos/Two Pointers/Two Sum 2.md",
     "Data Structures & Algos/imgs/Two Sum 2 Solution.png",
     "Data Structures & Algos/imgs/Two Sum 2 Solution.png",
     "Data Structures & Algos/imgs/Two Sum 2-1.png",
     "Data Structures & Algos/imgs/Two Sum 2 Problem.png",
-    "Data Structures & Algos/Two Pointers/Two Sum.md",
-    "Data Structures & Algos/Patterns/Modified Binary Search.md",
-    "Data Structures & Algos/Two Pointers/Remove Duplicates from Sorted Array.md",
     "Data Structures & Algos/Patterns",
     "Data Structures & Algos/Two Pointers",
     "Templates",

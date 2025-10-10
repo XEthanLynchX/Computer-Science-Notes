@@ -1,0 +1,5 @@
+- We first have it in test and then it goes into the "staging slot"
+- Go to the Staging slot then deployment and deployment centercheck logs to see if it deployed
+- check config under setting and make sure everything is the same
+- Lots of testing from test > staging(before pushing into test)
+- Go to deployment slots and swap the staging for the prod
