@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Two Pointers/Trapping Rain Water.md",
+                "file": "Data Structures & Algos/imgs/Container With Most Water.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Trapping Rain Water"
+              "title": "Container With Most Water"
             }
           }
         ],
@@ -215,25 +215,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c0631232213bee3e",
+  "active": "a246c31886d16db6",
   "lastOpenFiles": [
-    "Angel Oak/Notes/Deployment.md",
     "Data Structures & Algos/Two Pointers/Trapping Rain Water.md",
-    "Container With Most Water.md",
-    "Container With Most Water Brute.png",
-    "Container With Most Water-1.png",
-    "Container With Most Water Solution.png",
-    "Container With Most Water.png",
+    "Data Structures & Algos/imgs/Trapping Rain Water Brute.png",
+    "Data Structures & Algos/imgs/Trapping Rain Water Problem.png",
+    "Data Structures & Algos/imgs/Trapping Rain Water-1.png",
+    "Data Structures & Algos/imgs/Trapping Rain Water.png",
+    "Angel Oak/Notes/Deployment.md",
+    "Data Structures & Algos/imgs/Container With Most Water.md",
+    "Data Structures & Algos/imgs/Container With Most Water Brute.png",
+    "Data Structures & Algos/imgs/Container With Most Water-1.png",
+    "Data Structures & Algos/imgs/Container With Most Water Solution.png",
+    "Data Structures & Algos/imgs/Container With Most Water.png",
     "Data Structures & Algos/imgs/3 Sum.png",
     "Data Structures & Algos/Two Pointers/3 Sum.md",
     "Data Structures & Algos/imgs/3 Sum-1.png",
-    "Data Structures & Algos/imgs/3 Sum Solution.png",
-    "3 Sum Brute.png",
     "Data Structures & Algos/Two Pointers/Two Sum 2.md",
     "conflict-files-obsidian-git.md",
     "Math/Calculus 1/Worksheets/3.5 Worksheet.md",
-    "Data Structures & Algos/imgs/Two Sum 2.png",
-    "Data Structures & Algos/imgs/Two Sum 2-1.png",
     "Data Structures & Algos/Arrays & Hashing/Longest Consecutive Sequence.md",
     "Math/Calculus 1/Worksheets/3.4 Worksheet.md",
     "Data Structures & Algos/Arrays & Hashing/Product of Array Except Self.md",
@@ -252,7 +252,6 @@
     "Data Structures & Algos/Data Structures & Algos.md",
     "Data Structures & Algos/Patterns/Binary Tree BFS.md",
     "Data Structures & Algos/Python functions/Python Functions.md",
-    "Data Structures & Algos/Python functions/Dictionaries.md",
     "Data Structures & Algos/Two Pointers",
     "Data Structures & Algos/Patterns",
     "Templates",
