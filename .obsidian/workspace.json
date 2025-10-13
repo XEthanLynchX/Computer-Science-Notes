@@ -23,12 +23,24 @@
             "id": "c0631232213bee3e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/2.8 - 3.6 Study Guide.md"
+                "file": "Data Structures & Algos/Sliding Window/Best time to buy and sell a stock.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "2.8 - 3.6 Study Guide"
+              "icon": "lucide-file",
+              "title": "Best time to buy and sell a stock"
             }
           },
           {
@@ -215,13 +227,20 @@
   },
   "active": "c0631232213bee3e",
   "lastOpenFiles": [
-    "Pasted Image 20251012230928_814.png",
-    "Pasted Image 20251012223903_166.png",
-    "Math/Calculus 1/Study Guides/2.1 - 2.7 Study Guide.md",
+    "Best time to buy and sell a stock-1.png",
+    "Best time to buy and sell a stock.png",
+    "Data Structures & Algos/imgs/Best time to buy and sell a stock Brute.png",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012220043_764.png",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012220920_523.png",
+    "Computer Science Major.md",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012230928_814.png",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012223903_166.png",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012222800_073.png",
+    "Data Structures & Algos/Sliding Window/Best time to buy and sell a stock.md",
+    "Data Structures & Algos/imgs/Best time to buy and sell a stock Problem.png",
     "Excalidraw/2.8 - 3.6 Study Guide.md",
-    "Pasted Image 20251012222800_073.png",
-    "Pasted Image 20251012220920_523.png",
-    "Pasted Image 20251012220043_764.png",
+    "Data Structures & Algos/Sliding Window",
+    "Math/Calculus 1/Study Guides/2.1 - 2.7 Study Guide.md",
     "Math/Calculus 1/Study Guides/2.8 - 3.6 Study Guide.md",
     "Math/Calculus 1/Lecture Notes & Additional Notes/2.8 Intermediate Value Theorem.md",
     "Math/Calculus 1/Worksheets/3.2 Worksheet.md",
@@ -238,19 +257,13 @@
     "Data Structures & Algos/Two Pointers/Trapping Rain Water.md",
     "Data Structures & Algos/imgs/Trapping Rain Water Brute.png",
     "Data Structures & Algos/imgs/Trapping Rain Water Problem.png",
-    "Data Structures & Algos/imgs/Trapping Rain Water-1.png",
-    "Data Structures & Algos/imgs/Trapping Rain Water.png",
     "Angel Oak/Notes/Deployment.md",
-    "Data Structures & Algos/imgs/Container With Most Water Brute.png",
-    "Data Structures & Algos/imgs/Container With Most Water-1.png",
     "Data Structures & Algos/Two Pointers/3 Sum.md",
     "Data Structures & Algos/Two Pointers/Two Sum 2.md",
     "conflict-files-obsidian-git.md",
     "Data Structures & Algos/Arrays & Hashing/Longest Consecutive Sequence.md",
     "Data Structures & Algos/Arrays & Hashing/Product of Array Except Self.md",
     "Math/Calculus 1/Worksheets/Untitled.md",
-    "Data Structures & Algos/Python functions/For Looping.md",
-    "Data Structures & Algos/Python functions/List.md",
     "Data Structures & Algos/Two Pointers",
     "Data Structures & Algos/Patterns",
     "Templates",
@@ -260,7 +273,6 @@
     "Science",
     "Projects",
     "Programming Course",
-    "Data Structures & Algos/Python functions",
     "Untitled.canvas"
   ]
 }
