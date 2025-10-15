@@ -1,4 +1,9 @@
 1. [[Two Sum]]
 2. [[Square of a Sorted Array]]
 3.  [[Remove Duplicates from Sorted Array]]
-4. 
+4. [[Two Sum 2]]
+5. [[Remove Duplicates from Sorted Array]
+6. [[3 Sum]]
+7. [[Square of a Sorted Array]]
+8. [[]]
+9. 
