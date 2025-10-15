@@ -37,12 +37,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
+                "aFile": "Angel Oak/Notes/Basics of TypeScript.md",
+                "bFile": "Angel Oak/Notes/Basics of TypeScript.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "title": "Diff: Basics of TypeScript"
             }
           }
         ],
@@ -218,6 +218,10 @@
   },
   "active": "55688ada8ea7a4bb",
   "lastOpenFiles": [
+    "Angel Oak/Notes/TypeScript.md",
+    "Container With Most Water.md",
+    "Container With Most Water.png",
+    "Angel Oak/Notes/Untitled.md",
     "conflict-files-obsidian-git.md",
     "Angel Oak/Notes/Deployment.md",
     "Math/Calculus 1/Worksheets/3.5 Worksheet.md",
@@ -225,8 +229,6 @@
     "Data Structures & Algos/imgs/3 Sum-1.png",
     "Data Structures & Algos/imgs/3 Sum Solution.png",
     "Data Structures & Algos/Two Pointers/3 Sum.md",
-    "Container With Most Water.png",
-    "Container With Most Water.md",
     "Container With Most Water-1.png",
     "Container With Most Water Solution.png",
     "Container With Most Water Brute.png",
@@ -252,9 +254,6 @@
     "Data Structures & Algos/Arrays & Hashing/Product of Array Except Self.md",
     "Data Structures & Algos/Arrays & Hashing/Pangram.md",
     "Data Structures & Algos/Arrays & Hashing/Number of Good Pairs.md",
-    "Data Structures & Algos/Arrays & Hashing/FizzBuzz.md",
-    "Data Structures & Algos/Arrays & Hashing/Easy Warmups.md",
-    "Data Structures & Algos/Arrays & Hashing/Contains Duplicate.md",
     "Data Structures & Algos/Arrays & Hashing",
     "Data Structures & Algos/Patterns",
     "Data Structures & Algos/Two Pointers",
