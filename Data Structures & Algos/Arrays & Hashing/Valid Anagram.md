@@ -12,6 +12,7 @@ Type: Hash table / String / sorting
 ## **Note: 
 - An anagram is True if the two strings have the same amount of each character
 - Make sure the length of the two strings are the same
+- Use dictionaries to set the key to the letter than set the value to 
 
 ---
 
@@ -23,6 +24,7 @@ Type: Hash table / String / sorting
 
 ## **Brute Force: 
 
+![[Valid Anagram Brute Force.png]]
 ---
 ## **My Solution: 
 
@@ -31,3 +33,4 @@ Type: Hash table / String / sorting
 ---
 ## **Optimal Solution: 
 
+![[Valid Anagram Solution.png]]
