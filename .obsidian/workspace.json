@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Arrays & Hashing/Pangram.md",
+                "file": "Data Structures & Algos/Sliding Window/Longest Repeating Character Replacement.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pangram"
+              "title": "Longest Repeating Character Replacement"
             }
           },
           {
@@ -251,6 +251,12 @@
   },
   "active": "c0631232213bee3e",
   "lastOpenFiles": [
+    "Longest Repeating Character Replacement-1.png",
+    "Longest Repeating Character Replacement.png",
+    "Longest Repeating Character Replacement Problem.png",
+    "Data Structures & Algos/Sliding Window/Longest Substring Without Repeating Characters.md",
+    "Data Structures & Algos/Sliding Window/Longest Repeating Character Replacement.md",
+    "Data Structures & Algos/Arrays & Hashing/Pangram.md",
     "Data Structures & Algos/Arrays & Hashing/Longest Consecutive Sequence.md",
     "Data Structures & Algos/Arrays & Hashing/Product of Array Except Self.md",
     "Data Structures & Algos/Arrays & Hashing/Sqrt.md",
@@ -260,13 +266,11 @@
     "Data Structures & Algos/Arrays & Hashing/FizzBuzz.md",
     "Data Structures & Algos/Arrays & Hashing/Easy Warmups.md",
     "Data Structures & Algos/Arrays & Hashing/Contains Duplicate.md",
-    "Data Structures & Algos/Sliding Window/Longest Repeating Character Replacement.md",
     "Angel Oak/Notes/Untitled.md",
     "Data Structures & Algos/imgs/Longest Substring Without Repeating Characters.png",
     "Data Structures & Algos/imgs/Best time to buy and sell a stock.png",
     "Data Structures & Algos/imgs/Best time to buy and sell a stock-1.png",
     "Computer Science Major.md",
-    "Data Structures & Algos/Sliding Window/Longest Substring Without Repeating Characters.md",
     "Data Structures & Algos/imgs/Longest Substring Without Repeating Characters note.png",
     "Data Structures & Algos/imgs/Longest Substring Without Repeating Characters-1.png",
     "Data Structures & Algos/imgs/Longest Substring Without Repeating Characters Solution.png",
@@ -282,12 +286,8 @@
     "Data Structures & Algos/Two Pointers/Two Sum 2.md",
     "Math/Calculus 1/Study Guides/2.8 - 3.6 Study Guide.md",
     "Math/Calculus 1/Study Guides/2.1 - 2.7 Study Guide.md",
-    "Data Structures & Algos/imgs/Best time to buy and sell a stock Brute.png",
-    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012220043_764.png",
     "Data Structures & Algos/Sliding Window",
     "Math/Calculus 1/Lecture Notes & Additional Notes/2.8 Intermediate Value Theorem.md",
-    "Math/Calculus 1/Worksheets/3.2 Worksheet.md",
-    "Math/Calculus 1/Worksheets/Worksheets.md",
     "Data Structures & Algos/Two Pointers",
     "Data Structures & Algos/Patterns",
     "Templates",
