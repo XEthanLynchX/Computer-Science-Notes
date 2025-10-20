@@ -13,15 +13,44 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Data Structures & Algos/Python functions/Dictionaries.md",
-                "bFile": "Data Structures & Algos/Python functions/Dictionaries.md",
+                "aFile": "Programming Languages/Python/For Looping.md",
+                "bFile": "Programming Languages/Python/For Looping.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Dictionaries"
+              "title": "Diff: For Looping"
+            }
+          },
+          {
+            "id": "8c2f2c9366ccba1b",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "fcdd761e8417e296",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,8 +220,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "64f9d941ebce9157",
+  "active": "fcdd761e8417e296",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Longest Repeating Character Replacement Problem.png",
+    "Valid Anagram Brute Force.png",
+    "Longest Repeating Character Replacement.png",
+    "Longest Repeating Character Replacement-1.png",
+    "Data Structures & Algos/Sliding Window/Longest Repeating Character Replacement.md",
     "Angel Oak/Notes/Testing for LockScreenfunctions.md",
     "Angel Oak/Notes/Deployment.md",
     "Angel Oak/Dev Role.md",
@@ -209,7 +244,6 @@
     "Programming Languages/JavaScript",
     "Programming Languages/TypeScript",
     "Programming Languages",
-    "conflict-files-obsidian-git.md",
     "Math/Calculus 1/Study Guides/2.8 - 3.6 Study Guide.md",
     "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012230928_814.png",
     "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012223903_166.png",
@@ -217,10 +251,6 @@
     "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012220920_523.png",
     "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012220043_764.png",
     "Data Structures & Algos/imgs/Trapping Rain Water.png",
-    "Data Structures & Algos/imgs/Trapping Rain Water-1.png",
-    "Data Structures & Algos/imgs/Trapping Rain Water Problem.png",
-    "Data Structures & Algos/imgs/Trapping Rain Water Brute.png",
-    "Data Structures & Algos/imgs/Longest Substring Without Repeating Characters.png",
     "Data Structures & Algos/imgs/Container With Most Water.md",
     "Data Structures & Algos/Two Pointers/Trapping Rain Water.md",
     "Data Structures & Algos/Sliding Window/Longest Substring Without Repeating Characters.md",
@@ -232,8 +262,6 @@
     "Data Structures & Algos/Two Pointers/3 Sum.md",
     "Data Structures & Algos/Two Pointers/Two Sum 2.md",
     "Data Structures & Algos/Two Pointers/Remove Duplicates from Sorted Array.md",
-    "Data Structures & Algos/Arrays & Hashing/Longest Consecutive Sequence.md",
-    "Angel Oak/Notes/Deployment to Devops.md",
     "Excalidraw",
     "Data Structures & Algos/Arrays & Hashing",
     "Data Structures & Algos/Patterns",
