@@ -39,16 +39,40 @@
             "id": "fcdd761e8417e296",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures & Algos/Binary Search/Binary Search Problem.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Binary Search Problem"
+            }
+          },
+          {
+            "id": "94303bacd50cbfb1",
+            "type": "leaf",
+            "state": {
               "type": "image",
               "state": {
-                "file": "Data Structures & Algos/imgs/Longest Repeating Character Replacement.png"
+                "file": "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array.png"
               },
               "icon": "lucide-image",
-              "title": "Longest Repeating Character Replacement"
+              "title": "Find Minimum in Rotated Sorted Array"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,6 +244,16 @@
   },
   "active": "a246c31886d16db6",
   "lastOpenFiles": [
+    "Find Minimum in Rotated Sorted Array.md",
+    "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array.png",
+    "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array optimal.png",
+    "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array Brute.png",
+    "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array Problem.png",
+    "Data Structures & Algos/Binary Search/Binary Search Problem.md",
+    "Computer Science Major.md",
+    "Untitled.canvas",
+    "Data Structures & Algos/Patterns/Modified Binary Search.md",
+    "Data Structures & Algos/Binary Search",
     "Data Structures & Algos/imgs/Longest Repeating Character Replacement.png",
     "conflict-files-obsidian-git.md",
     "Data Structures & Algos/imgs/Longest Repeating Character Replacement Problem.png",
@@ -236,7 +270,6 @@
     "Programming Languages/Python/Regex in Python.md",
     "Programming Languages/Languages.md",
     "Programming Languages/Python/Untitled.md",
-    "Computer Science Major.md",
     "Programming Languages/Untitled",
     "Programming Course/Programming Courses.md",
     "Programming Languages/JavaScript",
@@ -245,10 +278,6 @@
     "Math/Calculus 1/Study Guides/2.8 - 3.6 Study Guide.md",
     "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012230928_814.png",
     "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012223903_166.png",
-    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012222800_073.png",
-    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012220920_523.png",
-    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012220043_764.png",
-    "Data Structures & Algos/imgs/Trapping Rain Water.png",
     "Data Structures & Algos/imgs/Container With Most Water.md",
     "Data Structures & Algos/Two Pointers/Trapping Rain Water.md",
     "Data Structures & Algos/Sliding Window/Longest Substring Without Repeating Characters.md",
@@ -257,14 +286,9 @@
     "Container With Most Water.md",
     "Angel Oak/Notes/Untitled.md",
     "Math/Calculus 1/Worksheets/3.5 Worksheet.md",
-    "Data Structures & Algos/Two Pointers/3 Sum.md",
-    "Data Structures & Algos/Two Pointers/Two Sum 2.md",
-    "Data Structures & Algos/Two Pointers/Remove Duplicates from Sorted Array.md",
     "Excalidraw",
     "Data Structures & Algos/Arrays & Hashing",
     "Data Structures & Algos/Patterns",
-    "Data Structures & Algos/Two Pointers",
-    "Templates",
-    "Untitled.canvas"
+    "Data Structures & Algos/Two Pointers"
   ]
 }
