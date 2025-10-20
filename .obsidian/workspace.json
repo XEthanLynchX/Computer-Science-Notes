@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c35eed04d0eb5dcd",
+        "id": "b1c4078a772e4056",
         "type": "tabs",
         "children": [
           {
-            "id": "aa1f83168d2a8ea9",
+            "id": "64f9d941ebce9157",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
+                "aFile": "Data Structures & Algos/Python functions/Dictionaries.md",
+                "bFile": "Data Structures & Algos/Python functions/Dictionaries.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "title": "Diff: Dictionaries"
             }
           }
         ]
@@ -191,8 +191,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "aa1f83168d2a8ea9",
+  "active": "64f9d941ebce9157",
   "lastOpenFiles": [
+    "Angel Oak/Notes/Testing for LockScreenfunctions.md",
+    "Angel Oak/Notes/Deployment.md",
+    "Angel Oak/Dev Role.md",
+    "Programming Languages/TypeScript/Everything Typescript.md",
+    "Programming Languages/TypeScript/Basics of TypeScript.md",
+    "Programming Languages/JavaScript/Everything JavaScript.md",
+    "Programming Languages/Python/Everything Python.md",
+    "Programming Languages/Python/Regex in Python.md",
+    "Programming Languages/Languages.md",
+    "Programming Languages/Python/Untitled.md",
+    "Computer Science Major.md",
+    "Programming Languages/Untitled",
+    "Programming Course/Programming Courses.md",
+    "Programming Languages/JavaScript",
+    "Programming Languages/TypeScript",
+    "Programming Languages",
     "conflict-files-obsidian-git.md",
     "Math/Calculus 1/Study Guides/2.8 - 3.6 Study Guide.md",
     "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012230928_814.png",
@@ -210,35 +226,19 @@
     "Data Structures & Algos/Sliding Window/Longest Substring Without Repeating Characters.md",
     "Data Structures & Algos/Sliding Window/Best time to buy and sell a stock.md",
     "Data Structures & Algos/Sliding Window",
-    "Angel Oak/Notes/TypeScript.md",
     "Container With Most Water.md",
     "Angel Oak/Notes/Untitled.md",
-    "Angel Oak/Notes/Deployment.md",
     "Math/Calculus 1/Worksheets/3.5 Worksheet.md",
     "Data Structures & Algos/Two Pointers/3 Sum.md",
     "Data Structures & Algos/Two Pointers/Two Sum 2.md",
     "Data Structures & Algos/Two Pointers/Remove Duplicates from Sorted Array.md",
-    "Data Structures & Algos/Python functions/Python Functions.md",
     "Data Structures & Algos/Arrays & Hashing/Longest Consecutive Sequence.md",
     "Angel Oak/Notes/Deployment to Devops.md",
-    "Math/Calculus 1/Worksheets/3.4 Worksheet.md",
-    "Excalidraw/3.5 Worksheet.md",
     "Excalidraw",
-    "Data Structures & Algos/Python functions/List.md",
-    "Data Structures & Algos/Python functions/For Looping.md",
-    "Data Structures & Algos/Python functions/Dictionaries.md",
-    "Data Structures & Algos/Python functions/Arrays vs Lists.md",
-    "Data Structures & Algos/Arrays & Hashing/Valid Palindrome.md",
-    "Data Structures & Algos/Arrays & Hashing/Valid Anagram.md",
-    "Data Structures & Algos/Arrays & Hashing/Sqrt.md",
     "Data Structures & Algos/Arrays & Hashing",
     "Data Structures & Algos/Patterns",
     "Data Structures & Algos/Two Pointers",
     "Templates",
-    "Math/Calculus 1/Worksheets",
-    "Angel Oak/Notes/imgs",
-    "Data Structures & Algos/Python functions",
-    "Social Studies",
     "Untitled.canvas"
   ]
 }

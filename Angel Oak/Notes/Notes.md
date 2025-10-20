@@ -2,7 +2,7 @@
 [[AzureDurableFunctions]]
 [[Jest]]
 [[NPM packages]]
-[[TypeScript]]
+[[Basics of TypeScript]]
 [[CAB Requests]]
 [[Git]]
 [[Design Logic]]

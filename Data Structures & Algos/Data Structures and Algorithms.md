@@ -1,6 +1,6 @@
 # Must Knows
 1. [[8 Patterns to solve leetcode problems]]
-2. [[Python Functions]]
+2. [[Everything Python]]
 
 # Problems
 1. [[Easy Warmups]]
