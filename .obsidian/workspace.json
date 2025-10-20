@@ -63,11 +63,23 @@
             "id": "94303bacd50cbfb1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array.png"
+                "file": "Data Structures & Algos/Binary Search/Find Minimum in Rotated Sorted Array.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
+              "icon": "lucide-file",
               "title": "Find Minimum in Rotated Sorted Array"
             }
           }
@@ -244,8 +256,8 @@
   },
   "active": "a246c31886d16db6",
   "lastOpenFiles": [
-    "Find Minimum in Rotated Sorted Array.md",
     "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array.png",
+    "Data Structures & Algos/Binary Search/Find Minimum in Rotated Sorted Array.md",
     "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array optimal.png",
     "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array Brute.png",
     "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array Problem.png",
