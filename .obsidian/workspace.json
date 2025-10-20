@@ -39,14 +39,12 @@
             "id": "fcdd761e8417e296",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "image",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "Data Structures & Algos/imgs/Longest Repeating Character Replacement.png"
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-image",
+              "title": "Longest Repeating Character Replacement"
             }
           }
         ],
@@ -220,13 +218,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fcdd761e8417e296",
+  "active": "a246c31886d16db6",
   "lastOpenFiles": [
+    "Data Structures & Algos/imgs/Longest Repeating Character Replacement.png",
     "conflict-files-obsidian-git.md",
-    "Longest Repeating Character Replacement Problem.png",
-    "Valid Anagram Brute Force.png",
-    "Longest Repeating Character Replacement.png",
-    "Longest Repeating Character Replacement-1.png",
+    "Data Structures & Algos/imgs/Longest Repeating Character Replacement Problem.png",
+    "Data Structures & Algos/imgs/Valid Anagram Brute Force.png",
+    "Data Structures & Algos/imgs/Longest Repeating Character Replacement-1.png",
     "Data Structures & Algos/Sliding Window/Longest Repeating Character Replacement.md",
     "Angel Oak/Notes/Testing for LockScreenfunctions.md",
     "Angel Oak/Notes/Deployment.md",
