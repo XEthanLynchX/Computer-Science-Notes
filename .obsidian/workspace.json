@@ -11,10 +11,24 @@
             "id": "ee50fc4ed1e44cab",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures & Algos/Two Pointers/3 Sum.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3 Sum"
             }
           },
           {
@@ -238,16 +252,23 @@
   },
   "active": "ee50fc4ed1e44cab",
   "lastOpenFiles": [
-    "Math/Calculus 1/Worksheets/3.5 Worksheet.md",
+    "Data Structures & Algos/Two Pointers/Two Sum.md",
+    "Data Structures & Algos/Two Pointers/Trapping Rain Water.md",
+    "Data Structures & Algos/Two Pointers/Square of a Sorted Array.md",
+    "Data Structures & Algos/Two Pointers/Remove Duplicates from Sorted Array.md",
+    "Data Structures & Algos/Stacks/Stack Problems.md",
+    "Star Method.md",
+    "Data Structures & Algos/Stacks",
     "Interview Prep/Interview Questions.md",
+    "Templates/LeetCode Template.md",
+    "Templates/Pattern Template.md",
+    "Math/Calculus 1/Worksheets/3.5 Worksheet.md",
     "Data Structures & Algos/Data Structures and Algorithms.md",
     "Data Structures & Algos/Sliding Window/Sliding Window Problems.md",
     "Data Structures & Algos/Sliding Window/Longest Substring Without Repeating Characters.md",
     "Data Structures & Algos/Sliding Window/Longest Repeating Character Replacement.md",
     "Data Structures & Algos/Sliding Window/Best time to buy and sell a stock.md",
     "Data Structures & Algos/Two Pointers/Two Pointer Problems.md",
-    "Data Structures & Algos/Two Pointers/Two Sum.md",
-    "Star Method.md",
     "Interview Prep",
     "Longest Repeating Character Replacement-1.png",
     "Longest Repeating Character Replacement.png",
@@ -266,15 +287,9 @@
     "Data Structures & Algos/imgs/Longest Substring Without Repeating Characters.png",
     "Data Structures & Algos/imgs/Best time to buy and sell a stock.png",
     "Data Structures & Algos/imgs/Best time to buy and sell a stock-1.png",
-    "Computer Science Major.md",
     "Data Structures & Algos/imgs/Longest Substring Without Repeating Characters note.png",
     "Data Structures & Algos/imgs/Longest Substring Without Repeating Characters-1.png",
     "Data Structures & Algos/imgs/Longest Substring Without Repeating Characters Solution.png",
-    "Data Structures & Algos/Patterns/Sliding Window.md",
-    "Data Structures & Algos/Two Pointers/Trapping Rain Water.md",
-    "Data Structures & Algos/Two Pointers/3 Sum.md",
-    "Data Structures & Algos/Two Pointers/Remove Duplicates from Sorted Array.md",
-    "Data Structures & Algos/Two Pointers/Square of a Sorted Array.md",
     "Data Structures & Algos/Sliding Window",
     "Data Structures & Algos/Two Pointers",
     "Data Structures & Algos/Patterns",
@@ -283,7 +298,6 @@
     "Math/Calculus 1/Worksheets",
     "Social Studies",
     "Science",
-    "Projects",
     "Untitled.canvas"
   ]
 }
