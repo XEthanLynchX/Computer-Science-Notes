@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cargill Interview.md",
+                "file": "Data Structures & Algos/Stacks/Valid Parentheses.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,7 +80,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cargill Interview"
+              "title": "Valid Parentheses"
             }
           }
         ],
@@ -256,14 +256,20 @@
   },
   "active": "94303bacd50cbfb1",
   "lastOpenFiles": [
-    "Interview Prep/Star Method.md",
+    "Valid Parentheses.png",
+    "Valid Parentheses Optimal.png",
+    "Pasted image 20251022102435.png",
+    "Valid Parentheses Problem.png",
+    "Data Structures & Algos/Stacks/Stack problems.md",
+    "Data Structures & Algos/Stacks/Valid Parentheses.md",
+    "Cargill Interview.md",
     "Data Structures & Algos/Stacks/Stack Problems.md",
+    "Interview Prep/Star Method.md",
     "Data Structures & Algos/Binary Search/Find Minimum in Rotated Sorted Array.md",
     "Interview Prep/Interview Questions.md",
     "Interview Prep",
     "Data Structures & Algos/Stacks",
     "Data Structures & Algos/Sliding Window/Sliding Window Problems.md",
-    "Cargill Interview.md",
     "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array.png",
     "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array optimal.png",
     "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array Brute.png",
@@ -277,7 +283,6 @@
     "conflict-files-obsidian-git.md",
     "Data Structures & Algos/imgs/Longest Repeating Character Replacement Problem.png",
     "Data Structures & Algos/imgs/Valid Anagram Brute Force.png",
-    "Data Structures & Algos/imgs/Longest Repeating Character Replacement-1.png",
     "Data Structures & Algos/Sliding Window/Longest Repeating Character Replacement.md",
     "Angel Oak/Notes/Testing for LockScreenfunctions.md",
     "Angel Oak/Notes/Deployment.md",
@@ -295,11 +300,6 @@
     "Programming Languages/TypeScript",
     "Programming Languages",
     "Math/Calculus 1/Study Guides/2.8 - 3.6 Study Guide.md",
-    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012230928_814.png",
-    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012223903_166.png",
-    "Data Structures & Algos/imgs/Container With Most Water.md",
-    "Data Structures & Algos/Two Pointers/Trapping Rain Water.md",
-    "Data Structures & Algos/Sliding Window/Longest Substring Without Repeating Characters.md",
     "Data Structures & Algos/Sliding Window",
     "Excalidraw",
     "Data Structures & Algos/Arrays & Hashing"
