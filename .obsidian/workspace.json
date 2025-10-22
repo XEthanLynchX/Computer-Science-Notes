@@ -8,40 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "64f9d941ebce9157",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Programming Languages/Python/For Looping.md",
-                "bFile": "Programming Languages/Python/For Looping.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: For Looping"
-            }
-          },
-          {
-            "id": "8c2f2c9366ccba1b",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "fcdd761e8417e296",
+            "id": "94303bacd50cbfb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Binary Search/Binary Search Problem.md",
+                "file": "Angel Oak/Projects/GraphService.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -56,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Binary Search Problem"
-            }
-          },
-          {
-            "id": "94303bacd50cbfb1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Data Structures & Algos/imgs/Valid Parentheses.png"
-              },
-              "icon": "lucide-image",
-              "title": "Valid Parentheses"
+              "title": "GraphService"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,19 +201,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a246c31886d16db6",
+  "active": "94303bacd50cbfb1",
   "lastOpenFiles": [
+    "Templates/Project Template.md",
+    "Angel Oak/Projects/GraphService.md",
+    "Angel Oak/Projects/GraphPrototype.md",
+    "Templates/Pattern Template.md",
+    "Angel Oak/Projects/Graph Client.md",
+    "Angel Oak/Notes/Notes.md",
+    "Angel Oak/Notes/Encompass JavaScript Training.md",
+    "Angel Oak/Notes/Deployment.md",
+    "Angel Oak/Notes/Deployment to Devops.md",
+    "Angel Oak/Notes/Jest.md",
+    "Data Structures & Algos/Data Structures and Algorithms.md",
+    "Data Structures & Algos/Binary Search/Binary Search Problems.md",
+    "Data Structures & Algos/Stacks/Stack problems.md",
+    "Computer Science Major.md",
+    "Interview Prep/Interviews.md",
+    "Programming Languages/Languages.md",
+    "Programming Languages/Python/Everything Python.md",
+    "Templates/Interview Template.md",
+    "Interview Prep/Cargill Interview.md",
+    "Data Structures & Algos/imgs/Valid Parentheses.png",
     "Data Structures & Algos/Stacks/Valid Parentheses.md",
     "Pasted image 20251022102435.png",
-    "Data Structures & Algos/imgs/Valid Parentheses.png",
     "Data Structures & Algos/imgs/Valid Parentheses Optimal.png",
     "Data Structures & Algos/imgs/Valid Parentheses Problem.png",
-    "Data Structures & Algos/Stacks/Stack problems.md",
-    "Cargill Interview.md",
     "Data Structures & Algos/Stacks/Stack Problems.md",
     "Interview Prep/Star Method.md",
     "Data Structures & Algos/Binary Search/Find Minimum in Rotated Sorted Array.md",
-    "Interview Prep/Interview Questions.md",
     "Interview Prep",
     "Data Structures & Algos/Stacks",
     "Data Structures & Algos/Sliding Window/Sliding Window Problems.md",
@@ -262,31 +237,16 @@
     "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array optimal.png",
     "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array Brute.png",
     "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array Problem.png",
-    "Data Structures & Algos/Binary Search/Binary Search Problem.md",
-    "Computer Science Major.md",
     "Untitled.canvas",
     "Data Structures & Algos/Patterns/Modified Binary Search.md",
     "Data Structures & Algos/Binary Search",
     "Data Structures & Algos/imgs/Longest Repeating Character Replacement.png",
     "conflict-files-obsidian-git.md",
     "Data Structures & Algos/imgs/Longest Repeating Character Replacement Problem.png",
-    "Data Structures & Algos/Sliding Window/Longest Repeating Character Replacement.md",
-    "Angel Oak/Notes/Testing for LockScreenfunctions.md",
-    "Angel Oak/Notes/Deployment.md",
-    "Angel Oak/Dev Role.md",
-    "Programming Languages/TypeScript/Everything Typescript.md",
-    "Programming Languages/TypeScript/Basics of TypeScript.md",
-    "Programming Languages/JavaScript/Everything JavaScript.md",
-    "Programming Languages/Python/Everything Python.md",
-    "Programming Languages/Python/Regex in Python.md",
-    "Programming Languages/Languages.md",
-    "Programming Languages/Python/Untitled.md",
     "Programming Languages/Untitled",
-    "Programming Course/Programming Courses.md",
     "Programming Languages/JavaScript",
     "Programming Languages/TypeScript",
     "Programming Languages",
-    "Math/Calculus 1/Study Guides/2.8 - 3.6 Study Guide.md",
     "Data Structures & Algos/Sliding Window",
     "Excalidraw",
     "Data Structures & Algos/Arrays & Hashing"
