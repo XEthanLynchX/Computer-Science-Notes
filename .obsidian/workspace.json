@@ -4,64 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "8b8831d0593e2348",
+        "id": "b1c4078a772e4056",
         "type": "tabs",
         "children": [
           {
-            "id": "ee50fc4ed1e44cab",
+            "id": "64f9d941ebce9157",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Data Structures & Algos/Two Pointers/3 Sum.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "Programming Languages/Python/For Looping.md",
+                "bFile": "Programming Languages/Python/For Looping.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "3 Sum"
+              "icon": "diff",
+              "title": "Diff: For Looping"
             }
           },
           {
-            "id": "8eb4450164a05e1f",
+            "id": "8c2f2c9366ccba1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Cargill.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Cargill"
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
             }
           },
           {
-            "id": "c0631232213bee3e",
+            "id": "fcdd761e8417e296",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Prep/Interview Questions.md",
+                "file": "Data Structures & Algos/Binary Search/Binary Search Problem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +56,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Interview Questions"
+              "title": "Binary Search Problem"
             }
           },
           {
-            "id": "935dd770c74f67e0",
+            "id": "94303bacd50cbfb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Data Structures and Algorithms.md",
+                "file": "Cargill Interview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +80,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data Structures and Algorithms"
+              "title": "Cargill Interview"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -163,8 +143,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -187,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures & Algos/Easy Warmups/FizzBuzz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for FizzBuzz"
+              "title": "Backlinks"
             }
           },
           {
@@ -262,7 +241,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -271,58 +249,59 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8eb4450164a05e1f",
+  "active": "94303bacd50cbfb1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Cargill.md",
-    "Data Structures & Algos/Two Pointers/3 Sum.md",
-    "Programming Languages/JavaScript/Everything JavaScript.md",
-    "Programming Languages/TypeScript/Everything Typescript.md",
-    "Programming Languages/TypeScript/Basics of TypeScript.md",
-    "Programming Languages/Python/Uppercase and Lowercase.md",
-    "Programming Languages/Python/Remove Non-Alpha Character Python.md",
-    "Programming Languages/Python/Removing Spaces.md",
-    "Programming Languages/Python/Regex in Python.md",
-    "Programming Languages/Python/List.md",
-    "Programming Languages/Python/Everything Python.md",
-    "Programming Languages/Python/Dictionaries.md",
-    "Programming Languages/Python/For Looping.md",
-    "Programming Languages/Python/Arrays.md",
-    "Programming Languages/Python/Arrays vs Lists.md",
-    "Programming Languages/Languages.md",
-    "Programming Languages/JavaScript",
-    "Programming Languages/TypeScript",
-    "Programming Languages/Python",
-    "Programming Languages",
-    "Data Structures & Algos/imgs/Valid Anagram Brute Force.png",
-    "Data Structures & Algos/imgs/Longest Repeating Character Replacement.png",
-    "Data Structures & Algos/imgs/Longest Repeating Character Replacement-1.png",
-    "Data Structures & Algos/imgs/Longest Repeating Character Replacement Problem.png",
+    "Interview Prep/Star Method.md",
+    "Data Structures & Algos/Stacks/Stack Problems.md",
+    "Data Structures & Algos/Binary Search/Find Minimum in Rotated Sorted Array.md",
+    "Interview Prep/Interview Questions.md",
+    "Interview Prep",
+    "Data Structures & Algos/Stacks",
+    "Data Structures & Algos/Sliding Window/Sliding Window Problems.md",
+    "Cargill Interview.md",
     "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array.png",
     "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array optimal.png",
-    "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array Problem.png",
     "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array Brute.png",
-    "Data Structures & Algos/Binary Search/Find Minimum in Rotated Sorted Array.md",
+    "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array Problem.png",
     "Data Structures & Algos/Binary Search/Binary Search Problem.md",
+    "Computer Science Major.md",
+    "Untitled.canvas",
+    "Data Structures & Algos/Patterns/Modified Binary Search.md",
     "Data Structures & Algos/Binary Search",
+    "Data Structures & Algos/imgs/Longest Repeating Character Replacement.png",
+    "conflict-files-obsidian-git.md",
+    "Data Structures & Algos/imgs/Longest Repeating Character Replacement Problem.png",
+    "Data Structures & Algos/imgs/Valid Anagram Brute Force.png",
+    "Data Structures & Algos/imgs/Longest Repeating Character Replacement-1.png",
+    "Data Structures & Algos/Sliding Window/Longest Repeating Character Replacement.md",
     "Angel Oak/Notes/Testing for LockScreenfunctions.md",
-    "Data Structures & Algos/Two Pointers/Two Sum.md",
+    "Angel Oak/Notes/Deployment.md",
+    "Angel Oak/Dev Role.md",
+    "Programming Languages/TypeScript/Everything Typescript.md",
+    "Programming Languages/TypeScript/Basics of TypeScript.md",
+    "Programming Languages/JavaScript/Everything JavaScript.md",
+    "Programming Languages/Python/Everything Python.md",
+    "Programming Languages/Python/Regex in Python.md",
+    "Programming Languages/Languages.md",
+    "Programming Languages/Python/Untitled.md",
+    "Programming Languages/Untitled",
+    "Programming Course/Programming Courses.md",
+    "Programming Languages/JavaScript",
+    "Programming Languages/TypeScript",
+    "Programming Languages",
+    "Math/Calculus 1/Study Guides/2.8 - 3.6 Study Guide.md",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012230928_814.png",
+    "Math/Calculus 1/Calculc Problems png/Pasted Image 20251012223903_166.png",
+    "Data Structures & Algos/imgs/Container With Most Water.md",
     "Data Structures & Algos/Two Pointers/Trapping Rain Water.md",
-    "Data Structures & Algos/Two Pointers/Square of a Sorted Array.md",
-    "Data Structures & Algos/Two Pointers/Remove Duplicates from Sorted Array.md",
-    "Data Structures & Algos/Stacks/Stack Problems.md",
-    "Star Method.md",
-    "Data Structures & Algos/Stacks",
-    "Interview Prep",
-    "Longest Repeating Character Replacement-1.png",
-    "Longest Repeating Character Replacement.png",
+    "Data Structures & Algos/Sliding Window/Longest Substring Without Repeating Characters.md",
     "Data Structures & Algos/Sliding Window",
-    "Data Structures & Algos/Two Pointers",
-    "Data Structures & Algos/Patterns",
-    "Untitled.canvas"
+    "Excalidraw",
+    "Data Structures & Algos/Arrays & Hashing"
   ]
 }
