@@ -63,23 +63,11 @@
             "id": "94303bacd50cbfb1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Data Structures & Algos/Stacks/Valid Parentheses.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Data Structures & Algos/imgs/Valid Parentheses.png"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-image",
               "title": "Valid Parentheses"
             }
           }
@@ -254,14 +242,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "94303bacd50cbfb1",
+  "active": "a246c31886d16db6",
   "lastOpenFiles": [
-    "Valid Parentheses.png",
-    "Valid Parentheses Optimal.png",
-    "Pasted image 20251022102435.png",
-    "Valid Parentheses Problem.png",
-    "Data Structures & Algos/Stacks/Stack problems.md",
     "Data Structures & Algos/Stacks/Valid Parentheses.md",
+    "Pasted image 20251022102435.png",
+    "Data Structures & Algos/imgs/Valid Parentheses.png",
+    "Data Structures & Algos/imgs/Valid Parentheses Optimal.png",
+    "Data Structures & Algos/imgs/Valid Parentheses Problem.png",
+    "Data Structures & Algos/Stacks/Stack problems.md",
     "Cargill Interview.md",
     "Data Structures & Algos/Stacks/Stack Problems.md",
     "Interview Prep/Star Method.md",
@@ -282,7 +270,6 @@
     "Data Structures & Algos/imgs/Longest Repeating Character Replacement.png",
     "conflict-files-obsidian-git.md",
     "Data Structures & Algos/imgs/Longest Repeating Character Replacement Problem.png",
-    "Data Structures & Algos/imgs/Valid Anagram Brute Force.png",
     "Data Structures & Algos/Sliding Window/Longest Repeating Character Replacement.md",
     "Angel Oak/Notes/Testing for LockScreenfunctions.md",
     "Angel Oak/Notes/Deployment.md",
