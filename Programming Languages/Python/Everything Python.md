@@ -3,6 +3,6 @@
 ## 3. [[Regex in Python]]
 ## 4. [[Remove Non-Alpha Character Python]]
 ## 5. [[Dictionaries]]
-## 6. [[Arrays]]
+## 6. [[Programming Languages/Python/Arrays]]
 ## 7. [[List]]
 ## 8. [[Arrays vs Lists]]
