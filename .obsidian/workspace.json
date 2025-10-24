@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b1c4078a772e4056",
+        "id": "8b8831d0593e2348",
         "type": "tabs",
         "children": [
           {
-            "id": "94303bacd50cbfb1",
+            "id": "ee50fc4ed1e44cab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Prep/Interviews.md",
+                "file": "Data Structures & Algos/Two Pointers/3 Sum.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Interviews"
+              "title": "3 Sum"
             }
           },
           {
-            "id": "d4890f57bf4c524f",
+            "id": "c0631232213bee3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Prep/Interview Questions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Interview Questions"
+            }
+          },
+          {
+            "id": "935dd770c74f67e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,33 +78,9 @@
               "icon": "lucide-file",
               "title": "Search in Rotated Sorted Array"
             }
-          },
-          {
-            "id": "008c88f3a3b39c15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/TypeScript/Basics of TypeScript.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Basics of TypeScript"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,8 +139,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -163,6 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Structures & Algos/Easy Warmups/FizzBuzz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for FizzBuzz"
             }
           },
           {
@@ -237,6 +238,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -245,59 +247,58 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d4890f57bf4c524f",
+  "active": "935dd770c74f67e0",
   "lastOpenFiles": [
     "Search in Rotated Sorted Array.png",
     "Search in Rotated Sorted Array Solution.png",
-    "Data Structures & Algos/Arrays & Hashing/Longest Consecutive Sequence.md",
-    "Data Structures & Algos/Two Pointers/Two Pointer Problems.md",
-    "Programming Languages/TypeScript/Basics of TypeScript.md",
-    "Programming Languages/TypeScript/Methods in a Class.md",
-    "Programming Languages/TypeScript/Everything Typescript.md",
-    "Math/Calculus 1/Calculus 1.md",
-    "Math/Calculus 1/Study Guides/2.8 - 3.6 Study Guide.md",
-    "Math/Calculus 1/Worksheets/Worksheets.md",
-    "Math/Calculus 1/Worksheets/3.5 Worksheet.md",
-    "Programming Languages/Python/Everything Python.md",
-    "Data Structures & Algos/Two Pointers/Container With Most Water.md",
-    "Data Structures & Algos/Binary Search/Binary Search Problems.md",
-    "Data Structures & Algos/Arrays & Hashing/Arrays & Hashing.md",
-    "Interview Prep/Interviews.md",
-    "Data Structures & Algos/Arrays & Hashing/Product of Array Except Self.md",
+    "Search in Rotated Sorted Array Brute.png",
+    "Search in Rotated Sorted Array Problem.png",
     "Data Structures & Algos/Binary Search/Search in Rotated Sorted Array.md",
     "Data Structures & Algos/Binary Search/Search Rotated Sorted Array.md",
-    "Data Structures & Algos/Binary Search/Find Minimum in Rotated Sorted Array.md",
-    "Data Structures & Algos/Arrays & Hashing/Number of Good Pairs.md",
-    "Search in Rotated Sorted Array Brute.png",
-    "Pasted image 20251022140458.png",
-    "Search in Rotated Sorted Array Problem.png",
-    "Angel Oak/Notes/Deployment.md",
-    "Angel Oak/Notes/Deployment to Devops.md",
-    "Angel Oak/Notes/Encompass JavaScript Training.md",
-    "Angel Oak/Projects/GraphService.md",
-    "Templates/Project Template.md",
-    "Angel Oak/Projects/GraphPrototype.md",
-    "Data Structures & Algos/imgs/Valid Parentheses.png",
-    "Pasted image 20251022102435.png",
+    "Angel Oak/Notes/Notes.md",
+    "Data Structures & Algos/Stacks/Valid Parentheses.md",
     "Data Structures & Algos/imgs/Valid Parentheses Optimal.png",
     "Data Structures & Algos/imgs/Valid Parentheses Problem.png",
-    "Interview Prep",
-    "Data Structures & Algos/Stacks",
-    "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array.png",
-    "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array optimal.png",
-    "Untitled.canvas",
-    "Data Structures & Algos/Binary Search",
-    "Programming Languages/Untitled",
+    "Data Structures & Algos/imgs/Valid Parentheses.png",
+    "Data Structures & Algos/Binary Search/Binary Search Problems.md",
+    "Data Structures & Algos/Arrays & Hashing/Arrays & Hashing.md",
+    "Angel Oak/Notes/Encompass JavaScript Training.md",
+    "Templates/Project Template.md",
+    "Templates/Interview Template.md",
+    "Interview Prep/Cargill Interview.md",
+    "Interview Prep/Interviews.md",
+    "Interview Prep/Star Method.md",
+    "Pasted image 20251022140458.png",
+    "Angel Oak/imgs/CAB Request.png",
+    "Angel Oak/imgs",
+    "Data Structures & Algos/Data Structures and Algorithms.md",
+    "Data Structures & Algos/Two Pointers/3 Sum.md",
+    "conflict-files-obsidian-git.md",
+    "Cargill.md",
+    "Excalidraw/Drawing 2025-10-22 23.05.44.excalidraw.md",
+    "Programming Languages/JavaScript/Everything JavaScript.md",
+    "Programming Languages/TypeScript/Everything Typescript.md",
+    "Programming Languages/TypeScript/Basics of TypeScript.md",
+    "Programming Languages/Python/Uppercase and Lowercase.md",
+    "Programming Languages/Python/Remove Non-Alpha Character Python.md",
+    "Programming Languages/Python/Removing Spaces.md",
+    "Programming Languages/Python/Regex in Python.md",
+    "Programming Languages/Python/List.md",
     "Programming Languages/JavaScript",
     "Programming Languages/TypeScript",
+    "Programming Languages/Python",
     "Programming Languages",
+    "Data Structures & Algos/imgs/Valid Anagram Brute Force.png",
+    "Data Structures & Algos/imgs/Longest Repeating Character Replacement.png",
+    "Data Structures & Algos/Binary Search",
+    "Data Structures & Algos/Stacks",
+    "Interview Prep",
     "Data Structures & Algos/Sliding Window",
-    "Excalidraw",
-    "Data Structures & Algos/Arrays & Hashing"
+    "Data Structures & Algos/Two Pointers",
+    "Untitled.canvas"
   ]
 }

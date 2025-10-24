@@ -11,14 +11,14 @@ Type: Array / Binary Search
 ---
 ## **Note: 
 - For the brute force we are checking if it's in array other wise return -1 
-- For the optimal solution we 
-
+- For the optimal solution we have to check which side of the array the mid pointer is in 
+- Depending on the which case the mid point is in evaluate target using the m and l/r pointer to see whether to move the l / r pointer to the right or left 
 
 ---
 
 ## **Time and Space Complexity: 
-- Time is O( log n ) - We cut the search time in galf 
-- Space is O( 1 ) -
+- Time is O( log n ) - We cut the search time in half in a one pass solution 
+- Space is O( 1 ) - We are only storing constants to check 
 
 --- 
 
@@ -30,6 +30,7 @@ Type: Array / Binary Search
 ## **My Solution: 
 
 ![[Search in Rotated Sorted Array Solution.png]]
+
 
 
 ---
