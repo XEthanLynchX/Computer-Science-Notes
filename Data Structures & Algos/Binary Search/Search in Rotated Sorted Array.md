@@ -29,9 +29,10 @@ Type: Array / Binary Search
 ---
 ## **My Solution: 
 
-
+![[Search in Rotated Sorted Array Solution.png]]
 
 
 ---
 ## **Optimal Solution: 
 
+![[Search in Rotated Sorted Array.png]]

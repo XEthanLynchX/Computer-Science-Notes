@@ -13,3 +13,4 @@
 # Study Guides 
 
 [[2.1 - 2.7 Study Guide]]
+[[2.8 - 3.6 Study Guide]]

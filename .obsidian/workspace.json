@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Arrays & Hashing/Arrays & Hashing.md",
+                "file": "Interview Prep/Interviews.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arrays & Hashing"
+              "title": "Interviews"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Arrays & Hashing/Number of Good Pairs.md",
+                "file": "Data Structures & Algos/Binary Search/Search in Rotated Sorted Array.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Number of Good Pairs"
+              "title": "Search in Rotated Sorted Array"
+            }
+          },
+          {
+            "id": "008c88f3a3b39c15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/TypeScript/Basics of TypeScript.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Basics of TypeScript"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,37 +250,38 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "94303bacd50cbfb1",
+  "active": "d4890f57bf4c524f",
   "lastOpenFiles": [
-    "Data Structures & Algos/Arrays & Hashing/Number of Good Pairs.md",
-    "Data Structures & Algos/Arrays & Hashing/Arrays & Hashing.md",
+    "Search in Rotated Sorted Array.png",
+    "Search in Rotated Sorted Array Solution.png",
+    "Data Structures & Algos/Arrays & Hashing/Longest Consecutive Sequence.md",
+    "Data Structures & Algos/Two Pointers/Two Pointer Problems.md",
     "Programming Languages/TypeScript/Basics of TypeScript.md",
+    "Programming Languages/TypeScript/Methods in a Class.md",
     "Programming Languages/TypeScript/Everything Typescript.md",
+    "Math/Calculus 1/Calculus 1.md",
+    "Math/Calculus 1/Study Guides/2.8 - 3.6 Study Guide.md",
+    "Math/Calculus 1/Worksheets/Worksheets.md",
+    "Math/Calculus 1/Worksheets/3.5 Worksheet.md",
+    "Programming Languages/Python/Everything Python.md",
+    "Data Structures & Algos/Two Pointers/Container With Most Water.md",
+    "Data Structures & Algos/Binary Search/Binary Search Problems.md",
+    "Data Structures & Algos/Arrays & Hashing/Arrays & Hashing.md",
+    "Interview Prep/Interviews.md",
+    "Data Structures & Algos/Arrays & Hashing/Product of Array Except Self.md",
     "Data Structures & Algos/Binary Search/Search in Rotated Sorted Array.md",
+    "Data Structures & Algos/Binary Search/Search Rotated Sorted Array.md",
+    "Data Structures & Algos/Binary Search/Find Minimum in Rotated Sorted Array.md",
+    "Data Structures & Algos/Arrays & Hashing/Number of Good Pairs.md",
     "Search in Rotated Sorted Array Brute.png",
     "Pasted image 20251022140458.png",
     "Search in Rotated Sorted Array Problem.png",
-    "Data Structures & Algos/Binary Search/Find Minimum in Rotated Sorted Array.md",
-    "Data Structures & Algos/Binary Search/Search Rotated Sorted Array.md",
-    "Data Structures & Algos/Binary Search/Binary Search Problems.md",
     "Angel Oak/Notes/Deployment.md",
     "Angel Oak/Notes/Deployment to Devops.md",
     "Angel Oak/Notes/Encompass JavaScript Training.md",
     "Angel Oak/Projects/GraphService.md",
     "Templates/Project Template.md",
     "Angel Oak/Projects/GraphPrototype.md",
-    "Templates/Pattern Template.md",
-    "Angel Oak/Projects/Graph Client.md",
-    "Angel Oak/Notes/Notes.md",
-    "Angel Oak/Notes/Jest.md",
-    "Data Structures & Algos/Data Structures and Algorithms.md",
-    "Data Structures & Algos/Stacks/Stack problems.md",
-    "Computer Science Major.md",
-    "Interview Prep/Interviews.md",
-    "Programming Languages/Languages.md",
-    "Programming Languages/Python/Everything Python.md",
-    "Templates/Interview Template.md",
-    "Interview Prep/Cargill Interview.md",
     "Data Structures & Algos/imgs/Valid Parentheses.png",
     "Pasted image 20251022102435.png",
     "Data Structures & Algos/imgs/Valid Parentheses Optimal.png",
@@ -264,7 +290,6 @@
     "Data Structures & Algos/Stacks",
     "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array.png",
     "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array optimal.png",
-    "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array Brute.png",
     "Untitled.canvas",
     "Data Structures & Algos/Binary Search",
     "Programming Languages/Untitled",
