@@ -59,21 +59,9 @@
             "id": "494479526bbb4d10",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Data Structures & Algos/imgs/Search in Rotated Sorted Array.png"
-              },
-              "icon": "lucide-image",
-              "title": "Search in Rotated Sorted Array"
-            }
-          },
-          {
-            "id": "008c88f3a3b39c15",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/TypeScript/Basics of TypeScript.md",
+                "file": "Data Structures & Algos/Linked Lists/Linked List Problems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Basics of TypeScript"
+              "title": "Linked List Problems"
+            }
+          },
+          {
+            "id": "4b020e6773317f3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angel Oak/Notes/Alert Rule.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Alert Rule"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -262,11 +274,23 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a246c31886d16db6",
+  "active": "4b020e6773317f3e",
   "lastOpenFiles": [
+    "Alert Rule-1.png",
+    "Alert Rule.png",
+    "Reverse Linked List.md",
+    "Angel Oak/Notes/Alert Rule.md",
+    "Reverse Linked List Solution.png",
+    "Reverse Linked List Problem.png",
+    "Data Structures & Algos/Linked Lists/Linked List Problems.md",
+    "Data Structures & Algos/Binary Search/Binary Search Problems.md",
+    "Data Structures & Algos/Data Structures and Algorithms.md",
+    "Programming Course/Programming Courses.md",
+    "Data Structures & Algos/Linked Lists",
+    "Programming Course/Object Oriented Programming.md",
+    "Data Structures & Algos/imgs/Search in Rotated Sorted Array.png",
     "Data Structures & Algos/imgs/Search in Rotated Sorted Array Solution.png",
     "Data Structures & Algos/imgs/Search in Rotated Sorted Array Problem.png",
-    "Data Structures & Algos/imgs/Search in Rotated Sorted Array.png",
     "Data Structures & Algos/imgs/Search in Rotated Sorted Array Brute.png",
     "Data Structures & Algos/Binary Search/Search in Rotated Sorted Array.md",
     "Pasted image 20251022140458.png",
@@ -282,25 +306,15 @@
     "Math/Calculus 1/Worksheets/3.5 Worksheet.md",
     "Programming Languages/Python/Everything Python.md",
     "Data Structures & Algos/Two Pointers/Container With Most Water.md",
-    "Data Structures & Algos/Binary Search/Binary Search Problems.md",
     "Data Structures & Algos/Arrays & Hashing/Arrays & Hashing.md",
     "Interview Prep/Interviews.md",
     "Data Structures & Algos/Arrays & Hashing/Product of Array Except Self.md",
     "Data Structures & Algos/Binary Search/Search Rotated Sorted Array.md",
     "Data Structures & Algos/Binary Search/Find Minimum in Rotated Sorted Array.md",
-    "Data Structures & Algos/Arrays & Hashing/Number of Good Pairs.md",
-    "Angel Oak/Notes/Deployment.md",
-    "Angel Oak/Notes/Deployment to Devops.md",
-    "Angel Oak/Notes/Encompass JavaScript Training.md",
-    "Angel Oak/Projects/GraphService.md",
-    "Templates/Project Template.md",
     "Data Structures & Algos/imgs/Valid Parentheses.png",
     "Pasted image 20251022102435.png",
-    "Data Structures & Algos/imgs/Valid Parentheses Optimal.png",
-    "Data Structures & Algos/imgs/Valid Parentheses Problem.png",
     "Interview Prep",
     "Data Structures & Algos/Stacks",
-    "Data Structures & Algos/imgs/Find Minimum in Rotated Sorted Array.png",
     "Untitled.canvas",
     "Data Structures & Algos/Binary Search",
     "Programming Languages/Untitled",
@@ -308,7 +322,6 @@
     "Programming Languages/TypeScript",
     "Programming Languages",
     "Data Structures & Algos/Sliding Window",
-    "Excalidraw",
-    "Data Structures & Algos/Arrays & Hashing"
+    "Excalidraw"
   ]
 }
