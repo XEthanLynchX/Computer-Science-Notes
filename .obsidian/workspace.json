@@ -102,9 +102,23 @@
               "icon": "lucide-file",
               "title": "Alert Rule"
             }
+          },
+          {
+            "id": "bef2a5efea6df8b6",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -274,12 +288,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4b020e6773317f3e",
+  "active": "bef2a5efea6df8b6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Angel Oak/Notes/Alert Rule.md",
     "Alert Rule-1.png",
     "Alert Rule.png",
     "Reverse Linked List.md",
-    "Angel Oak/Notes/Alert Rule.md",
     "Reverse Linked List Solution.png",
     "Reverse Linked List Problem.png",
     "Data Structures & Algos/Linked Lists/Linked List Problems.md",
@@ -294,7 +309,6 @@
     "Data Structures & Algos/imgs/Search in Rotated Sorted Array Brute.png",
     "Data Structures & Algos/Binary Search/Search in Rotated Sorted Array.md",
     "Pasted image 20251022140458.png",
-    "conflict-files-obsidian-git.md",
     "Data Structures & Algos/Arrays & Hashing/Longest Consecutive Sequence.md",
     "Data Structures & Algos/Two Pointers/Two Pointer Problems.md",
     "Programming Languages/TypeScript/Basics of TypeScript.md",
@@ -312,7 +326,6 @@
     "Data Structures & Algos/Binary Search/Search Rotated Sorted Array.md",
     "Data Structures & Algos/Binary Search/Find Minimum in Rotated Sorted Array.md",
     "Data Structures & Algos/imgs/Valid Parentheses.png",
-    "Pasted image 20251022102435.png",
     "Interview Prep",
     "Data Structures & Algos/Stacks",
     "Untitled.canvas",
