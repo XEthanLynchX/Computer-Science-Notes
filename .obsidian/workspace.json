@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b1c4078a772e4056",
+        "id": "8b8831d0593e2348",
         "type": "tabs",
         "children": [
           {
-            "id": "94303bacd50cbfb1",
+            "id": "ee50fc4ed1e44cab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Prep/Interviews.md",
+                "file": "Data Structures & Algos/Two Pointers/3 Sum.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Interviews"
+              "title": "3 Sum"
             }
           },
           {
-            "id": "d4890f57bf4c524f",
+            "id": "c0631232213bee3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Arrays & Hashing/Longest Consecutive Sequence.md",
+                "file": "Interview Prep/Interview Questions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Longest Consecutive Sequence"
+              "title": "Interview Questions"
             }
           },
           {
-            "id": "494479526bbb4d10",
+            "id": "935dd770c74f67e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Linked Lists/Linked List Problems.md",
+                "file": "Data Structures & Algos/Linked Lists/Reverse Linked List.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,49 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linked List Problems"
-            }
-          },
-          {
-            "id": "4b020e6773317f3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angel Oak/Notes/Alert Rule.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Alert Rule"
-            }
-          },
-          {
-            "id": "bef2a5efea6df8b6",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "title": "Reverse Linked List"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,8 +139,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -201,6 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data Structures & Algos/Easy Warmups/FizzBuzz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for FizzBuzz"
             }
           },
           {
@@ -275,6 +238,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -283,58 +247,57 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bef2a5efea6df8b6",
+  "active": "a246c31886d16db6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Angel Oak/Notes/Alert Rule.md",
-    "Alert Rule-1.png",
-    "Alert Rule.png",
-    "Reverse Linked List.md",
-    "Reverse Linked List Solution.png",
-    "Reverse Linked List Problem.png",
+    "Data Structures & Algos/imgs/Reverse Linked List Problem.png",
+    "Angel Oak/imgs/Alert Rule.png",
+    "Angel Oak/imgs/Alert Rule-1.png",
     "Data Structures & Algos/Linked Lists/Linked List Problems.md",
-    "Data Structures & Algos/Binary Search/Binary Search Problems.md",
-    "Data Structures & Algos/Data Structures and Algorithms.md",
-    "Programming Course/Programming Courses.md",
-    "Data Structures & Algos/Linked Lists",
+    "Data Structures & Algos/Binary Search/Search in Rotated Sorted Array.md",
+    "Data Structures & Algos/Linked Lists/Reverse Linked List.md",
+    "Data Structures & Algos/imgs/Reverse Linked List Solution.png",
     "Programming Course/Object Oriented Programming.md",
+    "Data Structures & Algos/Linked Lists",
+    "Angel Oak/Notes/Alert Rule.md",
+    "Programming Languages/TypeScript/Methods in a Class.md",
     "Data Structures & Algos/imgs/Search in Rotated Sorted Array.png",
     "Data Structures & Algos/imgs/Search in Rotated Sorted Array Solution.png",
     "Data Structures & Algos/imgs/Search in Rotated Sorted Array Problem.png",
     "Data Structures & Algos/imgs/Search in Rotated Sorted Array Brute.png",
-    "Data Structures & Algos/Binary Search/Search in Rotated Sorted Array.md",
-    "Pasted image 20251022140458.png",
-    "Data Structures & Algos/Arrays & Hashing/Longest Consecutive Sequence.md",
-    "Data Structures & Algos/Two Pointers/Two Pointer Problems.md",
-    "Programming Languages/TypeScript/Basics of TypeScript.md",
-    "Programming Languages/TypeScript/Methods in a Class.md",
-    "Programming Languages/TypeScript/Everything Typescript.md",
-    "Math/Calculus 1/Calculus 1.md",
-    "Math/Calculus 1/Study Guides/2.8 - 3.6 Study Guide.md",
-    "Math/Calculus 1/Worksheets/Worksheets.md",
-    "Math/Calculus 1/Worksheets/3.5 Worksheet.md",
-    "Programming Languages/Python/Everything Python.md",
     "Data Structures & Algos/Two Pointers/Container With Most Water.md",
-    "Data Structures & Algos/Arrays & Hashing/Arrays & Hashing.md",
-    "Interview Prep/Interviews.md",
-    "Data Structures & Algos/Arrays & Hashing/Product of Array Except Self.md",
+    "Search in Rotated Sorted Array.png",
+    "Search in Rotated Sorted Array Solution.png",
     "Data Structures & Algos/Binary Search/Search Rotated Sorted Array.md",
-    "Data Structures & Algos/Binary Search/Find Minimum in Rotated Sorted Array.md",
-    "Data Structures & Algos/imgs/Valid Parentheses.png",
-    "Interview Prep",
-    "Data Structures & Algos/Stacks",
-    "Untitled.canvas",
-    "Data Structures & Algos/Binary Search",
-    "Programming Languages/Untitled",
+    "Angel Oak/Notes/Notes.md",
+    "Data Structures & Algos/Stacks/Valid Parentheses.md",
+    "Data Structures & Algos/Binary Search/Binary Search Problems.md",
+    "Data Structures & Algos/Arrays & Hashing/Arrays & Hashing.md",
+    "Angel Oak/Notes/Encompass JavaScript Training.md",
+    "Templates/Project Template.md",
+    "Templates/Interview Template.md",
+    "Interview Prep/Cargill Interview.md",
+    "Interview Prep/Interviews.md",
+    "Interview Prep/Star Method.md",
+    "Angel Oak/imgs",
+    "Data Structures & Algos/Data Structures and Algorithms.md",
+    "Data Structures & Algos/Two Pointers/3 Sum.md",
+    "conflict-files-obsidian-git.md",
+    "Cargill.md",
+    "Excalidraw/Drawing 2025-10-22 23.05.44.excalidraw.md",
+    "Programming Languages/JavaScript/Everything JavaScript.md",
+    "Programming Languages/TypeScript/Everything Typescript.md",
     "Programming Languages/JavaScript",
     "Programming Languages/TypeScript",
+    "Programming Languages/Python",
     "Programming Languages",
+    "Data Structures & Algos/Binary Search",
+    "Data Structures & Algos/Stacks",
+    "Interview Prep",
     "Data Structures & Algos/Sliding Window",
-    "Excalidraw"
+    "Untitled.canvas"
   ]
 }
