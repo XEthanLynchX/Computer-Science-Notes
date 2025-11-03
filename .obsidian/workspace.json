@@ -107,14 +107,24 @@
             "id": "bef2a5efea6df8b6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "Angel Oak/Projects/Loan Document Download Service.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "Loan Document Download Service"
             }
           }
         ],
@@ -290,6 +300,11 @@
   },
   "active": "bef2a5efea6df8b6",
   "lastOpenFiles": [
+    "Angel Oak/Projects/Loan Document Download Client.md",
+    "Angel Oak/Projects/Loan Document Download Service.md",
+    "Angel Oak/Projects/LockScreen Functions.md",
+    "Angel Oak/Projects/GraphService.md",
+    "Angel Oak/Notes/Jest.md",
     "conflict-files-obsidian-git.md",
     "Angel Oak/Notes/Alert Rule.md",
     "Alert Rule-1.png",
@@ -321,10 +336,6 @@
     "Programming Languages/Python/Everything Python.md",
     "Data Structures & Algos/Two Pointers/Container With Most Water.md",
     "Data Structures & Algos/Arrays & Hashing/Arrays & Hashing.md",
-    "Interview Prep/Interviews.md",
-    "Data Structures & Algos/Arrays & Hashing/Product of Array Except Self.md",
-    "Data Structures & Algos/Binary Search/Search Rotated Sorted Array.md",
-    "Data Structures & Algos/Binary Search/Find Minimum in Rotated Sorted Array.md",
     "Data Structures & Algos/imgs/Valid Parentheses.png",
     "Interview Prep",
     "Data Structures & Algos/Stacks",
