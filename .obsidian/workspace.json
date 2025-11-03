@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "Loan Document Download Service"
             }
+          },
+          {
+            "id": "3e14878d1688961d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -298,32 +322,35 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bef2a5efea6df8b6",
+  "active": "3e14878d1688961d",
   "lastOpenFiles": [
-    "Angel Oak/Projects/Loan Document Download Client.md",
+    "conflict-files-obsidian-git.md",
     "Angel Oak/Projects/Loan Document Download Service.md",
+    "Merge Sorted Arrays Optimal.png",
+    "Merge Sorted Arrays Brute.png",
+    "Merge Sorted Array Problem.png",
+    "Data Structures & Algos/imgs/Reverse Linked List Solution.png",
+    "Data Structures & Algos/imgs/Reverse Linked List Problem.png",
+    "Data Structures & Algos/Linked Lists/Reverse Linked List.md",
+    "Data Structures & Algos/Arrays & Hashing/Merge Sorted Arrays.md",
+    "Angel Oak/imgs/Alert Rule.png",
+    "Angel Oak/imgs/Alert Rule-1.png",
+    "Angel Oak/Projects/Loan Document Download Client.md",
     "Angel Oak/Projects/LockScreen Functions.md",
     "Angel Oak/Projects/GraphService.md",
     "Angel Oak/Notes/Jest.md",
-    "conflict-files-obsidian-git.md",
     "Angel Oak/Notes/Alert Rule.md",
     "Alert Rule-1.png",
     "Alert Rule.png",
     "Reverse Linked List.md",
     "Reverse Linked List Solution.png",
-    "Reverse Linked List Problem.png",
     "Data Structures & Algos/Linked Lists/Linked List Problems.md",
     "Data Structures & Algos/Binary Search/Binary Search Problems.md",
     "Data Structures & Algos/Data Structures and Algorithms.md",
     "Programming Course/Programming Courses.md",
     "Data Structures & Algos/Linked Lists",
     "Programming Course/Object Oriented Programming.md",
-    "Data Structures & Algos/imgs/Search in Rotated Sorted Array.png",
-    "Data Structures & Algos/imgs/Search in Rotated Sorted Array Solution.png",
-    "Data Structures & Algos/imgs/Search in Rotated Sorted Array Problem.png",
-    "Data Structures & Algos/imgs/Search in Rotated Sorted Array Brute.png",
     "Data Structures & Algos/Binary Search/Search in Rotated Sorted Array.md",
-    "Pasted image 20251022140458.png",
     "Data Structures & Algos/Arrays & Hashing/Longest Consecutive Sequence.md",
     "Data Structures & Algos/Two Pointers/Two Pointer Problems.md",
     "Programming Languages/TypeScript/Basics of TypeScript.md",
@@ -333,10 +360,6 @@
     "Math/Calculus 1/Study Guides/2.8 - 3.6 Study Guide.md",
     "Math/Calculus 1/Worksheets/Worksheets.md",
     "Math/Calculus 1/Worksheets/3.5 Worksheet.md",
-    "Programming Languages/Python/Everything Python.md",
-    "Data Structures & Algos/Two Pointers/Container With Most Water.md",
-    "Data Structures & Algos/Arrays & Hashing/Arrays & Hashing.md",
-    "Data Structures & Algos/imgs/Valid Parentheses.png",
     "Interview Prep",
     "Data Structures & Algos/Stacks",
     "Untitled.canvas",
