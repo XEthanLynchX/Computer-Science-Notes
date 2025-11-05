@@ -12,6 +12,6 @@ As an Associate Developer, I redesigned the orchestration logic to leverage para
 
 ## Impact
 
-- Achieved a **50% performance improvement** in the loan document download process by enabling parallel execution of sub-orchestrators and optimizing activity functions.
+- Achieved a **100% performance improvement** in the loan document download process by enabling parallel execution of sub-orchestrators and optimizing activity functions.
 - Introduced **robust error handling** mechanisms to improve fault tolerance and traceability.
 - Delivered **clear and thorough documentation** covering orchestration flow, error scenarios, and integration points, enhancing team understanding and onboarding efficiency.
