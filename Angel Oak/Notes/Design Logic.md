@@ -15,5 +15,4 @@
 - The names of variables should be in **camelCase** 
 
 --- 
-
-
+## While 
