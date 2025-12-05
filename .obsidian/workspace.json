@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angel Oak/Notes/Current Tasks & Notes.md",
+                "file": "Programming Languages/TypeScript/Class.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Current Tasks & Notes"
+              "title": "Class"
             }
           }
         ]
@@ -201,19 +201,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a246c31886d16db6",
+  "active": "8e650a66f8f23d43",
   "lastOpenFiles": [
+    "Programming Languages/TypeScript/Basics of TypeScript.md",
+    "Programming Languages/TypeScript/Class.md",
+    "Programming Languages/TypeScript/Everything Typescript.md",
+    "Programming Languages/JavaScript/Everything JavaScript.md",
+    "Programming Languages/Python/Arrays.md",
+    "Data Structures & Algos/Arrays & Hashing/Contains Duplicate.md",
+    "Angel Oak/Notes/Current Tasks & Notes.md",
     "Ai Information/Github Copilot/Untitled.md",
     "Computer Science Major.md",
     "Ai Information/Github Copilot",
     "Ai Information",
     "Data Structures & Algos/imgs/Merge Sorted Arrays Optimal.png",
     "Data Structures & Algos/imgs/Merge Sorted Array Problem.png",
-    "Angel Oak/Notes/Current Tasks & Notes.md",
     "Data Structures & Algos/Data Structures and Algorithms.md",
     "Data Structures & Algos/Arrays & Hashing/Arrays & Hashing.md",
     "Data Structures & Algos/Arrays & Hashing/Product of Array Except Self.md",
-    "Data Structures & Algos/Arrays & Hashing/Contains Duplicate.md",
     "Angel Oak/Notes/Design Logic.md",
     "2025-11-19.md",
     "Untitled Kanban.md",
@@ -228,12 +233,7 @@
     "Angel Oak/Notes/Bug fixes for NPM packages.md",
     "Interview Prep/Interviews.md",
     "Angel Oak/Projects/Encompass-api-ts.md",
-    "Angel Oak/Projects/GraphPrototype.md",
-    "Angel Oak/Projects/GraphService.md",
-    "Angel Oak/Projects/Loan Document Download Service.md",
     "Untitled.base",
-    "Angel Oak/Notes/Alert Rule.md",
-    "conflict-files-obsidian-git.md",
     "Data Structures & Algos/imgs/Merge Sorted Arrays Brute.png",
     "Data Structures & Algos/imgs/Reverse Linked List Solution.png",
     "Data Structures & Algos/imgs/Reverse Linked List Problem.png",
