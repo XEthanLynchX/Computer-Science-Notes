@@ -1,8 +1,17 @@
-# Must Knows
+# Data Structures 
+--- 
+[[Array]]
+
+# Algorithms 
+--- 
+
+
+
+## Must Knows
 1. [[8 Patterns to solve leetcode problems]]
 2. [[Everything Python]]
 
-# Problems
+## Problems
 1. [[Arrays & Hashing]]
 2. [[Two Pointer Problems]] 
 3. [[Sliding Window Problems]]

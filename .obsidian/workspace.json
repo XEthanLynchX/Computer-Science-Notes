@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33fbcdc1b130b57a",
+        "id": "86ee3ccd59b125fd",
         "type": "tabs",
         "children": [
           {
-            "id": "8e650a66f8f23d43",
+            "id": "5611039c35f0a4bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/TypeScript/Class.md",
+                "file": "Data Structures & Algos/Arrays & Hashing/Arrays & Hashing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,107 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Class"
+              "title": "Arrays & Hashing"
+            }
+          },
+          {
+            "id": "cdd14da900ad046d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures & Algos/Data Structures and Algorithms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Data Structures and Algorithms"
+            }
+          },
+          {
+            "id": "f9786cac82ce54f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/Python/Dictionaries.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dictionaries"
+            }
+          },
+          {
+            "id": "3dd9c36747245bf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/TypeScript/Basics of TypeScript.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Basics of TypeScript"
+            }
+          },
+          {
+            "id": "7fdd03deace6b0c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/JavaScript/Everything JavaScript.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Everything JavaScript"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,38 +298,39 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8e650a66f8f23d43",
+  "active": "cdd14da900ad046d",
   "lastOpenFiles": [
+    "Group Anagrams.md",
+    "Data Structures & Algos/Arrays & Hashing/Arrays & Hashing.md",
+    "Programming Languages/Python/Dictionaries.md",
+    "Group Anagrams.png",
+    "Data Structures & Algos/Data Structures and Algorithms.md",
+    "Angel Oak/Notes/Swagger Documentation.md",
+    "Angel Oak/Notes/Current Tasks & Notes.md",
+    "Programming Languages/Python/For Looping.md",
+    "Programming Languages/Python/Everything Python.md",
+    "Current task proc.png",
+    "Angel Oak/Projects/Data Hook Up.md",
+    "Programming Languages/JavaScript/Everything JavaScript.md",
     "Programming Languages/TypeScript/Basics of TypeScript.md",
     "Programming Languages/TypeScript/Class.md",
     "Programming Languages/TypeScript/Everything Typescript.md",
-    "Programming Languages/JavaScript/Everything JavaScript.md",
-    "Programming Languages/Python/Arrays.md",
     "Data Structures & Algos/Arrays & Hashing/Contains Duplicate.md",
-    "Angel Oak/Notes/Current Tasks & Notes.md",
-    "Ai Information/Github Copilot/Untitled.md",
-    "Computer Science Major.md",
+    "Data Structures & Algos/Arrays & Hashing/FizzBuzz.md",
+    "Data Structures & Algos/Linked Lists/Reverse Linked List.md",
+    "Data Structures & Algos/Two Pointers/Two Sum.md",
+    "Programming Languages/Python/Arrays vs Lists.md",
+    "Programming Languages/Python/List.md",
+    "Programming Languages/Python/Arrays.md",
+    "Angel Oak/Notes/Deployment.md",
+    "Angel Oak/Notes/Deployment to Devops.md",
+    "Angel Oak/Projects/Loan Document Download Service.md",
+    "Angel Oak/Projects/GraphService.md",
+    "Projects/Starting a Node Project in Typescript.md",
     "Ai Information/Github Copilot",
     "Ai Information",
     "Data Structures & Algos/imgs/Merge Sorted Arrays Optimal.png",
     "Data Structures & Algos/imgs/Merge Sorted Array Problem.png",
-    "Data Structures & Algos/Data Structures and Algorithms.md",
-    "Data Structures & Algos/Arrays & Hashing/Arrays & Hashing.md",
-    "Data Structures & Algos/Arrays & Hashing/Product of Array Except Self.md",
-    "Angel Oak/Notes/Design Logic.md",
-    "2025-11-19.md",
-    "Untitled Kanban.md",
-    "Math/Calculus 1/Lecture Notes & Additional Notes/2.7 Limits At Infinity.md",
-    "Angel Oak/Dev Role.md",
-    "Angel Oak/Projects/Graph Client.md",
-    "Angel Oak/Projects/Purchase Doc Dump.md",
-    "Data Structures & Algos/Linked Lists/Reverse Linked List.md",
-    "Data Structures & Algos/Linked Lists/Linked List Problems.md",
-    "Data Structures & Algos/Arrays & Hashing/Valid Palindrome.md",
-    "Data Structures & Algos/Arrays & Hashing/Pangram.md",
-    "Angel Oak/Notes/Bug fixes for NPM packages.md",
-    "Interview Prep/Interviews.md",
-    "Angel Oak/Projects/Encompass-api-ts.md",
     "Untitled.base",
     "Data Structures & Algos/imgs/Merge Sorted Arrays Brute.png",
     "Data Structures & Algos/imgs/Reverse Linked List Solution.png",
@@ -240,8 +338,6 @@
     "Angel Oak/imgs/Alert Rule.png",
     "Angel Oak/imgs/Alert Rule-1.png",
     "Alert Rule-1.png",
-    "Alert Rule.png",
-    "Reverse Linked List Solution.png",
     "Data Structures & Algos/Linked Lists",
     "Interview Prep",
     "Data Structures & Algos/Stacks",

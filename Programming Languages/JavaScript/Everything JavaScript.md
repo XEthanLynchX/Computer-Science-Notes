@@ -1,7 +1,5 @@
 # JavaScript — Everything You Need to Know (with Arrays, Maps/Hashing, and Increment Patterns)
 
-> A practical, developer-focused cheatsheet for modern JavaScript (ES6+), with clear explanations, edge cases, and copy‑paste examples. Built for everyday use in Node.js and the browser.
-
 ---
 
 ## Table of Contents
@@ -138,8 +136,12 @@ import Logger, { id } from './utils.js';
 ### Classes & Inheritance
 ```js
 class Animal {
-  constructor(name) { this.name = name; }
-  speak() { console.log(`${this.name} makes a noise.`); }
+  constructor(name) {
+   this.name = name; 
+   }
+  speak(){ 
+  console.log(`${this.name} makes a noise.`);
+   }
 }
 
 class Dog extends Animal {

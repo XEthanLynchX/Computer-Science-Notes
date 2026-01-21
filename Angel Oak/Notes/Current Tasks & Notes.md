@@ -1,8 +1,16 @@
-Past Notes needed for pdd ldd client/service
-- Encompass was updated to fix isRemoved bug issue 
-- Tested that isRemoved is set to false by default in call so in LDD made it pass to the call itself so that is acutally can be set to true if needed 
-- The loans are including a few more docs then old PDD, however EVERYTHING expected to be filtered is being filtered correctly and contains the all old pdd data files (Could be a filter I couldn't find ) but if what we are filtering out now is okay then it's working as expected
-- How I tested Made sure the documents being tested didn't have new documents uploaded since the file had been handed to me (To ensure that we are calling the same amount of attachments that old PDD was) Then Checked the total attachments array in Postman and then compared to attachment array LDD called from encompass api, Then in Postman went through everything that should be filtered out (Unassigned, removed, 'trash', and inactive) and counted total documents we should have after filter and compared with LDD which in every case was filtering out the same amount expected to filtered out. 
+- Find out the right way to describe which properties are assigned to each level 
+and if the api is doing the right way by assigning the level in the body vs the path or if need to change it to maybe a path param to differ each body  to level 
+- The api looks at the rules to see what fields the rules are using to see what's required and not you can rely on the api because it gets required fields constinally 
+- Check with Austin how fields are being required (if they're truly required or conditionally required)
+- Check if swagger docs requires optional params 
+- Look at the stored procs 
+- ![[Current task proc.png]]
+- The db will tell the values that are required and negvalues are the values not allowed 
+
+
+TODO 
+Get access to test db
+and download quick quote price 
 
 
 
@@ -37,3 +45,25 @@ Learn some Vue (Udemy Course)
 
 
 Auth is HMAC SIGNATURE AUTH
+
+
+
+
+
+QQ Notes from Austin
+- Quick Quote uses QuickMapping to get the schemas  (like JOI)
+- QQ and QM are the only ones to be focused on 
+- Price adjustments if you are in the black you add it to the rate and percentage of the number in 30 yr fixed rate based pricing table 
+- Quick Quote returns an array of results for every program and you specify a program it will only return for that program and also only validate fields for that program 
+- Required means if its in the program and its required then you need it, otherwise if its in the program and its not required you don't necessary need it \
+- QQRequestProperties are all of the fields that are rules
+- QQRequestvalues are all of the values you can select for the text properties 
+- A get and post request are the same its just how you pass the data
+- The validation folder is important when write the DOCS 
+- Program needs to be required > level 1 
+- QuickQuote > QuickQual > QDU > QDUCreditReport 
+- QuickMapping Creates the schema for QQ to access 
+- QuickMapping is a good place to start because you can get all of the params 
+- Instance fields is an array and is a normal numeric field 
+- All array fields are instance fields (other than credit report)
+- Don't worry about level 4 right now 

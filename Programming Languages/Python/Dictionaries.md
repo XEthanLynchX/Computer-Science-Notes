@@ -113,6 +113,10 @@ squared_dict = {x: x**2 for x in range(6)}  # {0: 0, 1: 1, 2: 4, 3: 9, 4: 16, 5:
 - Hash table implementation provides O(1) access at the cost of some memory overhead
 - Each dictionary has some base memory cost, even when empty
 
+## Default Dict 
+-  A dictionary subclass that automatically provides a default value for missing keys instead of raising a `KeyError` 
+- 
+
 ## Conclusion
 
 Dictionaries are one of Python's most powerful and flexible data structures. Their O(1) average-case performance for key operations makes them incredibly efficient for many programming tasks, from caching to data mapping and beyond.
