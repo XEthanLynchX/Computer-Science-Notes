@@ -11,6 +11,7 @@ Type: Array / Hash Table / Two Pointer
 ---
 ## **Note: 
 - You can do this cleverly by instead of looping through each combination of numbers you sacrifice some memory and store some numbers to find the **"Difference"** 
+- Make Sure to use dictionary to store the indexes as it's more effecient lookup than getting the index of a list
 
 ---
 

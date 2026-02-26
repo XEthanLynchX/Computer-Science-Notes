@@ -1,7 +1,7 @@
 # [[Languages]]
 # [[Math]]
 
-# [[Programming Courses]]
+# [[Programming Courses & Concepts]]
 
 # [[Social Studies]]
 

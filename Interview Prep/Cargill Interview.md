@@ -15,3 +15,17 @@
 - I was actually given time to look up the difference between http and https and then explain what it was to interviewer 
 
 ## Were you accepted for this position 
+Yes
+
+
+People to connect with 
+Teamir Teshome 
+Soufian Carson
+Vishal Patil 
+Robison Jarret 
+Soumaya Tmane
+William Orgetrice
+Xaviette Oduneye
+
+Tools used at company
+Use Go 
