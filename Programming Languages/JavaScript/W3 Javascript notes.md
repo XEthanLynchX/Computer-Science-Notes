@@ -159,3 +159,32 @@ list: {
   text += cars[3] + "<br>";  
 }
   ```
+
+### Strings 
+- To insert quotes into a string you can use \" word \" format 
+- if you want to insert a backslash character into a string just use two \\ and one will display 
+- other useful characters to know for string are 
+- \n makes the string be on a new line 
+- \b for backspace
+- \t for Horizontal tab 
+-  v for vertical tab
+#### String Methods 
+- 'string'.length - returns the length of given string
+- charAt() - returns the character at passed index 
+- charCodeAt() - returns the code (UTF-16)
+E022{ 
+- Access chars from strings using string[i] or string.at() method
+}
+- concat() - join two or MORE strings together 
+- slice() - extract part of a string and return extracted part as a new string first param is the start index and second param is the end index(not included) if you omit second param will 
+- substring() - same as slice() but The difference is that start and end values less than 0 are treated as 0 in `substring()`.
+- `toUpperCase()`: make stringg all upper
+- `toLowerCase()`: make string all lower
+- trim(): removes whitespace from both sides of a string:
+- trimStart(): removes whitespace from start of string
+- trimEnd(): removes the whitespace from the end of the string
+- padStart(): pad a string with another string until it reaches given length first param is length second param is the string (useful for making longer number strings )
+- padEnd(): pads a string with another string (multiple times) until it reaches a given length.
+- repeat()
+
+
