@@ -16,13 +16,13 @@ Python dictionaries are **hash tables** (hash maps) that store key-value pairs, 
 
 ### A. Key Access and Modification
 
-|Operation|Syntax|Result/Behavior|Time Complexity|
-|---|---|---|---|
-|**Direct Access**|`my_dict['key']`|Retrieves value for the given key.|O(1) Average|
-|**Safe Access**|`my_dict.get('key', default_value)`|Returns default if key doesn't exist.|O(1) Average|
-|**Key Existence**|`'key' in my_dict`|Checks if key exists in dictionary.|O(1) Average|
-|**Adding/Updating**|`my_dict['new_key'] = value`|Adds new key-value or updates existing.|O(1) Average|
-|**Nested Access**|`nested_dict['user']['name']`|Access nested dictionary values.|O(1) Average|
+| Operation           | Syntax                              | Result/Behavior                         | Time Complexity |
+| ------------------- | ----------------------------------- | --------------------------------------- | --------------- |
+| **Direct Access**   | `my_dict['key']`                    | Retrieves value for the given key.      | O(1) Average    |
+| **Safe Access**     | `my_dict.get('key', default_value)` | Returns default if key doesn't exist.   | O(1) Average    |
+| **Key Existence**   | `'key' in my_dict`                  | Checks if key exists in dictionary.     | O(1) Average    |
+| **Adding/Updating** | `my_dict['new_key'] = value`        | Adds new key-value or updates existing. | O(1) Average    |
+| **Nested Access**   | `nested_dict['user']['name']`       | Access nested dictionary values.        | O(1) Average    |
 
 ### B. Dictionary Methods for Manipulation
 

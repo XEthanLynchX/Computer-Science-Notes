@@ -20,9 +20,6 @@ constructor(name: string, breed: string, age: number, owner?: string){
 	birthday(){ 
 		this.age += 1
 	}
-	
-	
-
 
 }
 
