@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b8831d0593e2348",
+        "id": "d4204fe13649d438",
         "type": "tabs",
         "children": [
           {
-            "id": "ee50fc4ed1e44cab",
+            "id": "44892eebe39a57f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Two Pointers/3 Sum.md",
+                "file": "Data Structures & Algos/Linked Lists/Merge Two Sorted Linked Lists.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,261 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3 Sum"
-            }
-          },
-          {
-            "id": "c0631232213bee3e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "935dd770c74f67e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures & Algos/Patterns/Binary Tree BFS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Binary Tree BFS"
-            }
-          },
-          {
-            "id": "85f888e2b25c9884",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures & Algos/Binary Search/Binary Search Problems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Binary Search Problems"
-            }
-          },
-          {
-            "id": "f0bb066744577902",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Course/Software Testing QA/Software Testing QA Concepts.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Software Testing QA Concepts"
-            }
-          },
-          {
-            "id": "149f35df35b3adec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures & Algos/Data Structures and Algorithms.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Data Structures and Algorithms"
-            }
-          },
-          {
-            "id": "8aaba7ba1e58b967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures & Algos/Two Pointers/Two Sum.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Two Sum"
-            }
-          },
-          {
-            "id": "125e8eb20b79a83b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures & Algos/Patterns/Top K Elements.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Top K Elements"
-            }
-          },
-          {
-            "id": "8dbe2c25730b97d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Python/Dictionaries.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dictionaries"
-            }
-          },
-          {
-            "id": "68ae390d1d045de2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cargill/Todos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Todos"
-            }
-          },
-          {
-            "id": "4f334566d92edf93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angel Oak/Projects/Purchase Doc Dump.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Purchase Doc Dump"
-            }
-          },
-          {
-            "id": "d309acdb85f8805a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals and Goal Setting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Goals and Goal Setting"
+              "title": "Merge Two Sorted Linked Lists"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -453,54 +202,53 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d309acdb85f8805a",
+  "active": "44892eebe39a57f7",
   "lastOpenFiles": [
+    "Data Structures & Algos/imgs/Merge Two Sorted Linked Lists Problem.png",
+    "Data Structures & Algos/imgs/Group Anagrams.png",
+    "Current task proc.png",
+    "Data Structures & Algos/Linked Lists/Merge Two Sorted Linked Lists.md",
+    "Programming Languages/Python/Linked Lists.md",
+    "Programming Languages/Python/List.md",
+    "Data Structures & Algos/Linked Lists/Reverse Linked List.md",
+    "Data Structures & Algos/Linked Lists/Linked List Problems.md",
+    "Programming Languages/JavaScript/W3 Javascript notes.md",
+    "Cargill/Notes/Salesforce Notes.md",
+    "Cargill/Notes/Todos.md",
+    "Programming Languages/Python/Dictionaries.md",
+    "Data Structures & Algos/Patterns/Top K Elements.md",
+    "Data Structures & Algos/Two Pointers/Two Sum.md",
+    "Data Structures & Algos/Data Structures and Algorithms.md",
+    "Programming Course/Software Testing QA/Software Testing QA Concepts.md",
+    "Data Structures & Algos/Binary Search/Binary Search Problems.md",
+    "Data Structures & Algos/Patterns/Binary Tree BFS.md",
+    "Data Structures & Algos/Two Pointers/3 Sum.md",
+    "Programming Course/Container Engines/Podman",
+    "Programming Course/Container Engines/Untitled.md",
+    "Programming Course/Container Engines",
     "Angel Oak/Projects/Purchase Doc Dump.md",
-    "Goals and Goal Setting.md",
-    "Angel Oak/Projects/AzureFunctionTemplate.md",
-    "Angel Oak/Projects/Data Hook Up.md",
-    "Angel Oak/Projects/GraphService.md",
-    "Angel Oak/Projects/Loan Document Download Client.md",
-    "Angel Oak/Projects/Loan Document Download Service.md",
-    "Angel Oak/Projects/LockScreen Functions.md",
-    "Angel Oak/Projects/QuickQuotePricerRefactor.md",
-    "Cargill/Todos.md",
+    "Data Structures & Algos/Arrays & Hashing/Valid Anagram.md",
+    "Data Structures & Algos/Arrays & Hashing/Valid Palindrome.md",
+    "Data Structures & Algos/Arrays & Hashing/Merge Sorted Arrays.md",
+    "Data Structures & Algos/Arrays & Hashing/Product of Array Except Self.md",
+    "Data Structures & Algos/Arrays & Hashing/Longest Consecutive Sequence.md",
+    "Data Structures & Algos/Arrays & Hashing/Contains Duplicate.md",
+    "Programming Languages/Python/For Looping.md",
     "Cargill/imgs",
     "Cargill/Notes",
-    "Programming Languages/Python/Dictionaries.md",
     "Cargill/Projects",
     "Cargill",
-    "Data Structures & Algos/Arrays & Hashing/Contains Duplicate.md",
-    "Programming Languages/TypeScript/Class.md",
-    "Programming Languages/TypeScript/Everything Typescript.md",
-    "Programming Languages/Python/List.md",
-    "Programming Languages/Python/Arrays vs Lists.md",
-    "Programming Languages/Python/Arrays.md",
-    "Programming Languages/JavaScript/W3 Javascript notes.md",
-    "Programming Languages/TypeScript/Basics of TypeScript.md",
-    "Programming Languages/Languages.md",
-    "Programming Languages/JavaScript/Everything JavaScript.md",
-    "Programming Languages/Python/Everything Python.md",
-    "Data Structures & Algos/Patterns/Two Pointer.md",
     "Programming Languages/imgs/W3 Javascript notes2.png",
     "Programming Languages/imgs/W3 Javascript notes.png",
     "Programming Languages/imgs",
-    "Programming Languages/SQL/Everything SQL.md",
     "Programming Languages/SQL",
-    "Group Anagrams.png",
-    "Group Anagrams.md",
-    "Current task proc.png",
-    "Angel Oak/Todos.md",
     "Programming Course/imgs/System tests.png",
     "Programming Course/imgs/Intregration test.png",
     "Programming Course/imgs",
     "Programming Course/imgs/Unit test.png",
     "Programming Course/Software Testing QA",
-    "Programming Course/Fundamentals",
     "Data Structures & Algos/imgs/Merge Sorted Arrays Optimal.png",
     "Data Structures & Algos/imgs/Merge Sorted Arrays Brute.png",
-    "Data Structures & Algos/imgs/Merge Sorted Array Problem.png",
-    "Ai Information/Github Copilot",
     "Untitled.canvas"
   ]
 }

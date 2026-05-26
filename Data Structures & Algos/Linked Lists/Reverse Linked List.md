@@ -25,8 +25,8 @@ Type: Linked List / Recursion
 ---
 
 ## **Time and Space Complexity: 
-- Time is O(n) - 
-- Space is O(1) -
+- Time is O(n) - Time is O(n) because we have to transverse through the whole linked list at least once 
+- Space is O(1) - space is O(1) because we are only storing the head of the new linked list
 
 --- 
 
@@ -35,11 +35,8 @@ Type: Linked List / Recursion
 ![[Reverse Linked List Solution.png]]
 ---
 ## **My Solution: 
+Same as brute
 
-
-
-9999
-9999999
 ---
 ## **Optimal Solution: 
-
+same as brute

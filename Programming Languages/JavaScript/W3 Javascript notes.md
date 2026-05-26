@@ -97,7 +97,7 @@ let result = text1 < text2;
 
 ### Conditonal Ternary Operator (? :)
 - condintion ? expression1 : expression2 
-- (If) (do this if true) (do this if false) 
+- (If) ? (do this if true) : (do this if false) 
 - ```js
   let age = 17
   let status = (age < 18) ? "Too young" : "An adult"
@@ -187,4 +187,167 @@ E022{
 - padEnd(): pads a string with another string (multiple times) until it reaches a given length.
 - repeat()
 
+### Objects 
+- ** Example of an object 
+- ```js
+  const car = { 
+  type: "Sudan", 
+  model: "Honda", 
+  make: "Accord"
+  }
+  ```
 
+- **Accessing an object can be done in a few ways 
+```js
+// Set a variable from an object's property 
+let age = person.age;
+
+// or use
+let age = person["age"];
+
+const name = 
+// Use bracket notation when using a variable 
+person[name]
+
+```
+
+In general, **dot notation is preferred** for readability and simplicity.
+
+**Bracket notation is necessary in some cases:**
+- The property name is stored in a variable:  
+    person[myVariable]
+- The property name is not a valid identifier:  
+    person["last-name"]
+
+- **Changing/Adding Properties within an object 
+```js 
+//Will change Person's age prop to "10"
+person.age = 10 
+
+//Add properties by simply giving a new property a value 
+person.nationality = "English";
+```
+
+- **Deleting properties 
+- The `delete` keyword deletes a property from an object:
+```js 
+const person = {  
+  firstName: "John",  
+  lastName: "Doe",  
+  age: 50,  
+};  
+  
+delete person.age;
+```
+
+In JavaScript, almost "everything" is an object:
+- Objects are objects
+- Maths are objects
+- Dates are objects
+- Arrays are objects
+- Maps are objects
+- Sets are objects
+- RegExp are Objects
+- Errors are Objects
+
+**Check if property exists  (in)
+```js 
+const person = {  
+  firstName: "John",  
+  lastName: "Doe"  
+};  
+  
+let result = ("firstName" in person); //returns true
+```
+
+**Nested objects and accessing them 
+```js 
+myObj = {  
+  name:"John",  
+  age:30,  
+  myCars: {  
+    car1:"Ford",  
+    car2:"BMW",  
+    car3:"Fiat"  
+  }  
+}
+
+const FancyCar = myObj.myCars.car2;
+```
+
+- **Objects methods 
+In an object method, `this` refers to the object.
+```js 
+const person = {  
+  firstName: "John",  
+  lastName: "Doe",  
+  id: 5566,  
+  getId: function() {  
+    return **this**.id;  
+  }  
+};  
+  
+let number = person.getId();
+```
+
+In the example above, **`this`** refers to the **person object**.
+`this.id` means the **id property** of the **person object**.
+
+- If you call a method **with parentheses**, it will **execute as a function**
+- If you call a method **without parentheses**, it will return the **function definition**
+### Adding a Method to an Object
+
+You can add a method to an object by **assigning a function to a property**:
+```js
+
+// Assign person.name to a function  
+person.name = function () {  
+  return this.firstName + " " + this.lastName;  
+};
+```
+
+### Getting Key names / values using indexs 
+- use the obj.keys
+```js 
+const car = { 
+make: "Honda", 
+model: "Accord"
+}
+
+const key = Object.keys(car)[0]) //value is set to make
+```
+
+### Object.values() 
+- If you put an object in here it'll convert it to an array
+```js 
+const person = { 
+  name: "Ethan", 
+  age: 22
+} 
+
+const arr = Object.values(person)
+
+console.log(arr)
+
+//Output: [ 'Ethan', 22 ]
+```
+
+### Object.entries()
+```js 
+const person = { 
+  name: "Ethan", 
+  age: 22,
+  job: "SWE"
+} 
+
+for (let [attr, val] of Object.entries(person)){ 
+console.log(`${attr}: ${val}`)
+} 
+
+/*
+Outputs:
+name: Ethan
+age: 22
+job: SWE
+*/
+```
