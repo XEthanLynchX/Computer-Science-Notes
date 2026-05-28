@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Linked Lists/Merge Two Sorted Linked Lists.md",
+                "file": "Data Structures & Algos/Linked Lists/Reorder Linked Lists.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Merge Two Sorted Linked Lists"
+              "title": "Reorder Linked Lists"
             }
           }
         ]
@@ -202,19 +202,27 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "44892eebe39a57f7",
+  "active": "a246c31886d16db6",
   "lastOpenFiles": [
+    "Data Structures & Algos/imgs/Reorder Linked Lists problem.png",
+    "Data Structures & Algos/Linked Lists/Reorder Linked Lists.md",
+    "Data Structures & Algos/Linked Lists/Reverse Linked List.md",
+    "Data Structures & Algos/Linked Lists/Merge Two Sorted Linked Lists.md",
+    "Programming Languages/Python/For Looping.md",
+    "Data Structures & Algos/Linked Lists/Linked List Cycle Detection.md",
+    "Data Structures & Algos/Arrays & Hashing/Group Anagrams.md",
+    "Data Structures & Algos/imgs/Linked List Cycle Detection.png",
+    "Cargill/Notes/Branching Rules.md",
+    "Cargill/Notes/Todos.md",
+    "Cargill/Notes/Salesforce Notes.md",
+    "Programming Languages/TypeScript/Class.md",
     "Data Structures & Algos/imgs/Merge Two Sorted Linked Lists Problem.png",
     "Data Structures & Algos/imgs/Group Anagrams.png",
     "Current task proc.png",
-    "Data Structures & Algos/Linked Lists/Merge Two Sorted Linked Lists.md",
     "Programming Languages/Python/Linked Lists.md",
     "Programming Languages/Python/List.md",
-    "Data Structures & Algos/Linked Lists/Reverse Linked List.md",
     "Data Structures & Algos/Linked Lists/Linked List Problems.md",
     "Programming Languages/JavaScript/W3 Javascript notes.md",
-    "Cargill/Notes/Salesforce Notes.md",
-    "Cargill/Notes/Todos.md",
     "Programming Languages/Python/Dictionaries.md",
     "Data Structures & Algos/Patterns/Top K Elements.md",
     "Data Structures & Algos/Two Pointers/Two Sum.md",
@@ -228,12 +236,6 @@
     "Programming Course/Container Engines",
     "Angel Oak/Projects/Purchase Doc Dump.md",
     "Data Structures & Algos/Arrays & Hashing/Valid Anagram.md",
-    "Data Structures & Algos/Arrays & Hashing/Valid Palindrome.md",
-    "Data Structures & Algos/Arrays & Hashing/Merge Sorted Arrays.md",
-    "Data Structures & Algos/Arrays & Hashing/Product of Array Except Self.md",
-    "Data Structures & Algos/Arrays & Hashing/Longest Consecutive Sequence.md",
-    "Data Structures & Algos/Arrays & Hashing/Contains Duplicate.md",
-    "Programming Languages/Python/For Looping.md",
     "Cargill/imgs",
     "Cargill/Notes",
     "Cargill/Projects",
@@ -248,7 +250,6 @@
     "Programming Course/imgs/Unit test.png",
     "Programming Course/Software Testing QA",
     "Data Structures & Algos/imgs/Merge Sorted Arrays Optimal.png",
-    "Data Structures & Algos/imgs/Merge Sorted Arrays Brute.png",
     "Untitled.canvas"
   ]
 }
