@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Linked Lists/Reorder Linked Lists.md",
+                "file": "Cargill/Notes/Cornucopia Breakdown.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reorder Linked Lists"
+              "title": "Cornucopia Breakdown"
             }
           }
         ]
@@ -202,19 +202,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a246c31886d16db6",
+  "active": "44892eebe39a57f7",
   "lastOpenFiles": [
-    "Data Structures & Algos/imgs/Reorder Linked Lists problem.png",
+    "Cargill/Notes/Cornucopia Guidelines.md",
+    "Cargill/Notes/Cornucopia Breakdown.md",
+    "Cargill/Notes/Cornucopia Questions.md",
+    "Programming Languages/SQL/Everything SQL.md",
+    "Cargill/Goals and Goal Setting.md",
+    "Cargill/Notes/Todos.md",
+    "Cargill/Notes/Salesforce Notes.md",
+    "Cargill/Notes/Branching Rules.md",
     "Data Structures & Algos/Linked Lists/Reorder Linked Lists.md",
+    "Data Structures & Algos/imgs/Reorder Linked Lists problem.png",
     "Data Structures & Algos/Linked Lists/Reverse Linked List.md",
     "Data Structures & Algos/Linked Lists/Merge Two Sorted Linked Lists.md",
     "Programming Languages/Python/For Looping.md",
     "Data Structures & Algos/Linked Lists/Linked List Cycle Detection.md",
     "Data Structures & Algos/Arrays & Hashing/Group Anagrams.md",
     "Data Structures & Algos/imgs/Linked List Cycle Detection.png",
-    "Cargill/Notes/Branching Rules.md",
-    "Cargill/Notes/Todos.md",
-    "Cargill/Notes/Salesforce Notes.md",
     "Programming Languages/TypeScript/Class.md",
     "Data Structures & Algos/imgs/Merge Two Sorted Linked Lists Problem.png",
     "Data Structures & Algos/imgs/Group Anagrams.png",
@@ -230,12 +235,8 @@
     "Programming Course/Software Testing QA/Software Testing QA Concepts.md",
     "Data Structures & Algos/Binary Search/Binary Search Problems.md",
     "Data Structures & Algos/Patterns/Binary Tree BFS.md",
-    "Data Structures & Algos/Two Pointers/3 Sum.md",
     "Programming Course/Container Engines/Podman",
-    "Programming Course/Container Engines/Untitled.md",
     "Programming Course/Container Engines",
-    "Angel Oak/Projects/Purchase Doc Dump.md",
-    "Data Structures & Algos/Arrays & Hashing/Valid Anagram.md",
     "Cargill/imgs",
     "Cargill/Notes",
     "Cargill/Projects",
@@ -249,7 +250,6 @@
     "Programming Course/imgs",
     "Programming Course/imgs/Unit test.png",
     "Programming Course/Software Testing QA",
-    "Data Structures & Algos/imgs/Merge Sorted Arrays Optimal.png",
     "Untitled.canvas"
   ]
 }
