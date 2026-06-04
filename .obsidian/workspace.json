@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cargill/Notes/Cornucopia Breakdown.md",
+                "file": "Data Structures & Algos/Linked Lists/Remove Nth Node From End of List.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cornucopia Breakdown"
+              "title": "Remove Nth Node From End of List"
             }
           }
         ]
@@ -202,17 +202,29 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "44892eebe39a57f7",
+  "active": "a246c31886d16db6",
   "lastOpenFiles": [
+    "Data Structures & Algos/imgs/Remove Nth Node From End of List problem.png",
+    "Programming Languages/Python/Linked Lists.md",
+    "Data Structures & Algos/Linked Lists/Remove Nth Node From End of List.md",
+    "Data Structures & Algos/Linked Lists/Reorder Linked Lists.md",
     "Cargill/Notes/Cornucopia Guidelines.md",
     "Cargill/Notes/Cornucopia Breakdown.md",
+    "Angel Oak/Notes/Notes.md",
+    "Angel Oak/Notes/Swagger Documentation.md",
+    "Angel Oak/Projects/Open API Documentation Generation.md",
+    "Angel Oak/Projects/QuickQuotePricerRefactor.md",
+    "Angel Oak/Projects/Loan Document Download Client.md",
+    "Angel Oak/Projects/Loan Document Download Service.md",
+    "Angel Oak/Projects/LockScreen Functions.md",
+    "Angel Oak/Projects/Purchase Doc Dump.md",
+    "Angel Oak/Dev Role.md",
     "Cargill/Notes/Cornucopia Questions.md",
     "Programming Languages/SQL/Everything SQL.md",
     "Cargill/Goals and Goal Setting.md",
     "Cargill/Notes/Todos.md",
     "Cargill/Notes/Salesforce Notes.md",
     "Cargill/Notes/Branching Rules.md",
-    "Data Structures & Algos/Linked Lists/Reorder Linked Lists.md",
     "Data Structures & Algos/imgs/Reorder Linked Lists problem.png",
     "Data Structures & Algos/Linked Lists/Reverse Linked List.md",
     "Data Structures & Algos/Linked Lists/Merge Two Sorted Linked Lists.md",
@@ -220,21 +232,9 @@
     "Data Structures & Algos/Linked Lists/Linked List Cycle Detection.md",
     "Data Structures & Algos/Arrays & Hashing/Group Anagrams.md",
     "Data Structures & Algos/imgs/Linked List Cycle Detection.png",
-    "Programming Languages/TypeScript/Class.md",
     "Data Structures & Algos/imgs/Merge Two Sorted Linked Lists Problem.png",
     "Data Structures & Algos/imgs/Group Anagrams.png",
     "Current task proc.png",
-    "Programming Languages/Python/Linked Lists.md",
-    "Programming Languages/Python/List.md",
-    "Data Structures & Algos/Linked Lists/Linked List Problems.md",
-    "Programming Languages/JavaScript/W3 Javascript notes.md",
-    "Programming Languages/Python/Dictionaries.md",
-    "Data Structures & Algos/Patterns/Top K Elements.md",
-    "Data Structures & Algos/Two Pointers/Two Sum.md",
-    "Data Structures & Algos/Data Structures and Algorithms.md",
-    "Programming Course/Software Testing QA/Software Testing QA Concepts.md",
-    "Data Structures & Algos/Binary Search/Binary Search Problems.md",
-    "Data Structures & Algos/Patterns/Binary Tree BFS.md",
     "Programming Course/Container Engines/Podman",
     "Programming Course/Container Engines",
     "Cargill/imgs",

@@ -10,7 +10,8 @@ Type: Linked List / Recursion
 ## **Note: 
 - For the optimal solution solution you can use slow and fast pointer technique to get the half point of the linked list
 - Then reverse the second half of the linked list 
--  
+-  Your prev pointer and the midpoint.next need to be set to None
+- The midpoint.next(slow.next) connection must be severed otherwise  
 
 ---
 

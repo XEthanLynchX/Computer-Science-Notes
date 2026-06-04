@@ -48,3 +48,20 @@ Note: For a circular linked list these can work with either a singly or doubly l
 |Search| O(n)       |
 |Insertion (head)| O(1)       |
 |Deletion (head)| O(1)       
+
+# KEY NOTE
+- When you make a new pointer you're modifying the original list still you don't have to call the original head to make changes to a list. 
+- ```python 
+  ## head → 1 → 2 → 3 → 4 → 5
+  
+  mid = node_3
+
+##head → 1 → 2 → 3 → 4 → 5 
+##				  ↑ mid
+mid.next = some_other_node
+
+
+##list becomes 
+## head → 1 → 2 → 3 → some_other_node
+
+```
