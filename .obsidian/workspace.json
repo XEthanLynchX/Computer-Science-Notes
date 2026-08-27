@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d4204fe13649d438",
+        "id": "e0d1fe9c041d84b4",
         "type": "tabs",
         "children": [
           {
-            "id": "44892eebe39a57f7",
+            "id": "facbe28f6c4d2dc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Linked Lists/Remove Nth Node From End of List.md",
+                "file": "Data Structures & Algos/Arrays & Hashing/Valid Palindrome.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Remove Nth Node From End of List"
+              "title": "Valid Palindrome"
             }
           }
         ]
@@ -51,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -185,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,11 +204,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a246c31886d16db6",
+  "active": "facbe28f6c4d2dc5",
   "lastOpenFiles": [
+    "Data Structures & Algos/Class Notes/Lecture 1.md",
+    "Recursion Example.png",
+    "63FE6493-EEEB-4D37-96C6-9B5ECBF71641_1_102_o.jpeg",
+    "1C79FD5E-A354-469F-B669-D6DB3580EF06.jpeg",
+    "Data Structures & Algos/Class Notes/Lectures.md",
+    "Data Structures & Algos/Data Structures and Algorithms.md",
+    "Data Structures & Algos/Class Notes",
+    "Computer Science Major.md",
+    "Interview Prep/Interviews.md",
+    "Untitled.md",
+    "Data Structures & Algos/Linked Lists/Remove Nth Node From End of List.md",
     "Data Structures & Algos/imgs/Remove Nth Node From End of List problem.png",
     "Programming Languages/Python/Linked Lists.md",
-    "Data Structures & Algos/Linked Lists/Remove Nth Node From End of List.md",
     "Data Structures & Algos/Linked Lists/Reorder Linked Lists.md",
     "Cargill/Notes/Cornucopia Guidelines.md",
     "Cargill/Notes/Cornucopia Breakdown.md",
@@ -224,13 +236,7 @@
     "Cargill/Goals and Goal Setting.md",
     "Cargill/Notes/Todos.md",
     "Cargill/Notes/Salesforce Notes.md",
-    "Cargill/Notes/Branching Rules.md",
     "Data Structures & Algos/imgs/Reorder Linked Lists problem.png",
-    "Data Structures & Algos/Linked Lists/Reverse Linked List.md",
-    "Data Structures & Algos/Linked Lists/Merge Two Sorted Linked Lists.md",
-    "Programming Languages/Python/For Looping.md",
-    "Data Structures & Algos/Linked Lists/Linked List Cycle Detection.md",
-    "Data Structures & Algos/Arrays & Hashing/Group Anagrams.md",
     "Data Structures & Algos/imgs/Linked List Cycle Detection.png",
     "Data Structures & Algos/imgs/Merge Two Sorted Linked Lists Problem.png",
     "Data Structures & Algos/imgs/Group Anagrams.png",
@@ -242,14 +248,9 @@
     "Cargill/Projects",
     "Cargill",
     "Programming Languages/imgs/W3 Javascript notes2.png",
-    "Programming Languages/imgs/W3 Javascript notes.png",
     "Programming Languages/imgs",
     "Programming Languages/SQL",
-    "Programming Course/imgs/System tests.png",
-    "Programming Course/imgs/Intregration test.png",
     "Programming Course/imgs",
-    "Programming Course/imgs/Unit test.png",
-    "Programming Course/Software Testing QA",
     "Untitled.canvas"
   ]
 }
