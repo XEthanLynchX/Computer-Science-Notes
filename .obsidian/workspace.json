@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Linked Lists/Remove Nth Node From End of List.md",
+                "file": "Science/Chapter 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Remove Nth Node From End of List"
+              "title": "Chapter 2"
             }
           }
         ]
@@ -51,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -202,11 +204,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a246c31886d16db6",
+  "active": "44892eebe39a57f7",
   "lastOpenFiles": [
+    "Science/Chapter 1.md",
+    "Science/Chapter 2.md",
+    "Science/imgs",
+    "Science/imgs/Chapter 1.7 chart.png",
+    "Science/Chemistry.md",
+    "Programming Languages/Languages.md",
+    "Science/Science.md",
+    "Data Structures & Algos/Linked Lists/Remove Nth Node From End of List.md",
     "Data Structures & Algos/imgs/Remove Nth Node From End of List problem.png",
     "Programming Languages/Python/Linked Lists.md",
-    "Data Structures & Algos/Linked Lists/Remove Nth Node From End of List.md",
     "Data Structures & Algos/Linked Lists/Reorder Linked Lists.md",
     "Cargill/Notes/Cornucopia Guidelines.md",
     "Cargill/Notes/Cornucopia Breakdown.md",
@@ -227,10 +236,6 @@
     "Cargill/Notes/Branching Rules.md",
     "Data Structures & Algos/imgs/Reorder Linked Lists problem.png",
     "Data Structures & Algos/Linked Lists/Reverse Linked List.md",
-    "Data Structures & Algos/Linked Lists/Merge Two Sorted Linked Lists.md",
-    "Programming Languages/Python/For Looping.md",
-    "Data Structures & Algos/Linked Lists/Linked List Cycle Detection.md",
-    "Data Structures & Algos/Arrays & Hashing/Group Anagrams.md",
     "Data Structures & Algos/imgs/Linked List Cycle Detection.png",
     "Data Structures & Algos/imgs/Merge Two Sorted Linked Lists Problem.png",
     "Data Structures & Algos/imgs/Group Anagrams.png",
@@ -246,10 +251,7 @@
     "Programming Languages/imgs",
     "Programming Languages/SQL",
     "Programming Course/imgs/System tests.png",
-    "Programming Course/imgs/Intregration test.png",
     "Programming Course/imgs",
-    "Programming Course/imgs/Unit test.png",
-    "Programming Course/Software Testing QA",
     "Untitled.canvas"
   ]
 }
