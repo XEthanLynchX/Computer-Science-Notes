@@ -1,6 +1,6 @@
 # Data Structures 
 --- 
-[[Array]]
+[[Pro and Cons of each Data Structure]]
 
 # Algorithms 
 --- 
