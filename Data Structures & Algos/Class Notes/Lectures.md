@@ -1,2 +1,2 @@
-# [[Lecture 1]]
+# [[Data Structures & Algos/Class Notes/Lecture 1]]
 

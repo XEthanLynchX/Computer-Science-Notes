@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d4204fe13649d438",
+        "id": "e0d1fe9c041d84b4",
         "type": "tabs",
         "children": [
           {
-            "id": "44892eebe39a57f7",
+            "id": "facbe28f6c4d2dc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Science/Chapter 2.md",
+                "file": "Yt Scripts/What about I went from sleeping in my car at 18 to never stressing about money again..md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chapter 2"
+              "title": "What about I went from sleeping in my car at 18 to never stressing about money again."
+            }
+          },
+          {
+            "id": "e8059473f3d74d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures & Algos/Class Notes/Lecture 8.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 8"
             }
           }
         ]
@@ -187,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,54 +228,54 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "44892eebe39a57f7",
+  "active": "facbe28f6c4d2dc5",
   "lastOpenFiles": [
-    "Science/Chapter 1.md",
-    "Science/Chapter 2.md",
-    "Science/imgs",
-    "Science/imgs/Chapter 1.7 chart.png",
-    "Science/Chemistry.md",
-    "Programming Languages/Languages.md",
-    "Science/Science.md",
+    "Pro and Cons of each Data Structure.md",
+    "Data Structures & Algos/Class Notes/Lecture 8.md",
+    "Yt Scripts/What about I went from sleeping in my car at 18 to never stressing about money again..md",
+    "BCCA247F-BC0A-4B51-93AA-7C0049D7FE14.jpeg",
+    "Yt Scripts",
+    "63FE6493-EEEB-4D37-96C6-9B5ECBF71641_1_102_o.jpeg",
+    "1C79FD5E-A354-469F-B669-D6DB3580EF06.jpeg",
+    "Data Structures & Algos/Class Notes/Lecture 7.md",
+    "Data Structures & Algos/Class Notes/Lecture 6.md",
+    "71EDA44E-92C0-4552-B68E-E992F5E7DEA9_1_102_o.jpeg",
+    "394D5EE5-46C8-4AEE-B647-CAF3B4B4810F_4_5005_c.jpeg",
+    "Programming Course/Intro to AI/Lecture 1.md",
+    "Data Structures & Algos/Class Notes/Lecture 5.md",
+    "Programming Course/Intro to AI",
+    "Data Structures & Algos/Class Notes/Lecture 3.md",
+    "Data Structures & Algos/Linked Lists/Reverse Linked List.md",
+    "Data Structures & Algos/imgs/Valid Palindrome Solution.png",
+    "Data Structures & Algos/Linked Lists/Reorder Linked Lists.md",
     "Data Structures & Algos/Linked Lists/Remove Nth Node From End of List.md",
+    "Data Structures & Algos/Linked Lists/Merge Two Sorted Linked Lists.md",
+    "Data Structures & Algos/Linked Lists/Linked List Problems.md",
+    "Data Structures & Algos/Data Structures and Algorithms.md",
+    "Data Structures & Algos/Class Notes/Lecture.md",
+    "Data Structures & Algos/Class Notes/Lecture 2.md",
+    "Data Structures & Algos/Arrays & Hashing/Valid Palindrome.md",
+    "Science/imgs/Chapter 1.7 chart.png",
+    "Science/imgs",
+    "Science/Chemistry.md",
+    "Science/Chapter 2.md",
+    "Science/Chapter 1.md",
+    "Data Structures & Algos/Class Notes/Lecture 1.md",
+    "Recursion Example.png",
+    "Data Structures & Algos/Class Notes/Lectures.md",
+    "Data Structures & Algos/Class Notes",
+    "Computer Science Major.md",
+    "Interview Prep/Interviews.md",
+    "Untitled.md",
     "Data Structures & Algos/imgs/Remove Nth Node From End of List problem.png",
     "Programming Languages/Python/Linked Lists.md",
-    "Data Structures & Algos/Linked Lists/Reorder Linked Lists.md",
-    "Cargill/Notes/Cornucopia Guidelines.md",
-    "Cargill/Notes/Cornucopia Breakdown.md",
-    "Angel Oak/Notes/Notes.md",
-    "Angel Oak/Notes/Swagger Documentation.md",
-    "Angel Oak/Projects/Open API Documentation Generation.md",
-    "Angel Oak/Projects/QuickQuotePricerRefactor.md",
-    "Angel Oak/Projects/Loan Document Download Client.md",
-    "Angel Oak/Projects/Loan Document Download Service.md",
-    "Angel Oak/Projects/LockScreen Functions.md",
-    "Angel Oak/Projects/Purchase Doc Dump.md",
-    "Angel Oak/Dev Role.md",
-    "Cargill/Notes/Cornucopia Questions.md",
-    "Programming Languages/SQL/Everything SQL.md",
-    "Cargill/Goals and Goal Setting.md",
-    "Cargill/Notes/Todos.md",
-    "Cargill/Notes/Salesforce Notes.md",
-    "Cargill/Notes/Branching Rules.md",
     "Data Structures & Algos/imgs/Reorder Linked Lists problem.png",
-    "Data Structures & Algos/Linked Lists/Reverse Linked List.md",
-    "Data Structures & Algos/imgs/Linked List Cycle Detection.png",
-    "Data Structures & Algos/imgs/Merge Two Sorted Linked Lists Problem.png",
-    "Data Structures & Algos/imgs/Group Anagrams.png",
-    "Current task proc.png",
     "Programming Course/Container Engines/Podman",
     "Programming Course/Container Engines",
     "Cargill/imgs",
     "Cargill/Notes",
     "Cargill/Projects",
     "Cargill",
-    "Programming Languages/imgs/W3 Javascript notes2.png",
-    "Programming Languages/imgs/W3 Javascript notes.png",
-    "Programming Languages/imgs",
-    "Programming Languages/SQL",
-    "Programming Course/imgs/System tests.png",
-    "Programming Course/imgs",
     "Untitled.canvas"
   ]
 }

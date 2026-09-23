@@ -8,7 +8,7 @@
 - The postfix algo applies the operation bottom variable -> operator -> top variable when computing 
 - The final value on the stack is the final computation 
 - A good thing to note is you NEVER start with the side that begins with an operator (else you have nothing to apply the operator to)
-## Example: 
+## Example: ![[394D5EE5-46C8-4AEE-B647-CAF3B4B4810F_4_5005_c.jpeg]]
 
 ## Infix to Postfix Algorithm
 1. Create an empty stack and an empty output string.
@@ -36,7 +36,7 @@ current operator onto the stack.
 to the output string until a ‘)' is popped; discard the ‘('.
 7. If the end of the input string is found, pop all operators and append
 them to the output string.
-## Example:
+## Example: ![[71EDA44E-92C0-4552-B68E-E992F5E7DEA9_1_102_o.jpeg]]
 
 
 ## Common Stack Errors 
