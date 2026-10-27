@@ -1,7 +1,0 @@
-# Arrays
----
-### Pros
-- 
-
-
-### Cons 
