@@ -1,123 +1,181 @@
-## Stack ADT 
-- A container where you can manipulate only the top element 
-### Stack Methods
-- push(e) - Adds an element to a stack 
-- pop() - removes the top element from the stack 
-- top() / peek() - returns the top element of the stack (doesn't remove)
-- isFull() - True if stack is full 
-- isEmpty() - checks if there are any elements in the stack returns true if there are none
-- size() - return the # of elements in the stack
-## Implementation 
-### Using Array
-- when an item is inserted into an array (as a stack) it will be inserted initially at 0 and then 1 , 2, etc
-- The top element is the element at the highest index
-```java
-public class ArrayStackExample {
-    public static void main(String[] args) {
-        int[] stack = new int[6];  // fixed-size array, capacity 6
-        int top = -1;              // -1 means empty
+[[Data Structures & Algos/Class Notes/Lectures|← All lectures]]
 
-        for (int i = 0; i <= 5; i++) {
-            top++;
-            stack[top] = i;
-        }
+# Lecture 5: Stacks & Polish Notation
 
-        System.out.print("Stack contents (bottom to top): ");
-        for (int i = 0; i <= top; i++) {
-            System.out.print(stack[i] + " ");
-        }
-        System.out.println();
-        // Output: 0 1 2 3 4 5
-        // stack[0] = 0 (bottom), stack[5] = 5 (top)
-        System.out.println("Top index is: " + top);
-	    }
-	}
-}
-```
+## Stack ADT
+
+A **stack** is a container where you can only reach the **top** element. It is **LIFO**: **L**ast **I**n, **F**irst **O**ut (like a stack of plates).
+
+### Stack methods
+
+| Method | What it does | Cost |
+| --- | --- | --- |
+| `push(e)` | Add `e` to the top | O(1) |
+| `pop()` | Remove and return the top element | O(1) |
+| `top()` / `peek()` | Return the top element **without** removing it | O(1) |
+| `isEmpty()` | `true` if there are no elements | O(1) |
+| `isFull()` | `true` if the stack is at capacity (array version) | O(1) |
+| `size()` | Number of elements | O(1) |
+
+Errors to guard against (see [[Data Structures & Algos/Class Notes/Lecture 6|Lecture 6]]):
+
+- **Stack overflow:** `push` on a full stack
+- **Stack empty (underflow):** `pop` or `peek` on an empty stack
+
+## Implementation 1: Array
+
+- Elements fill from index **0** upward: 0, 1, 2, …
+- `top` holds the index of the top element. **`top = -1` means empty.**
+- The top element is always at the **highest used index**.
 
 ```java
-public class ArrayStackExample {
-    public static void main(String[] args) {
-        int[] stack = new int[6];
-        int top = stack.length;
+public class ArrayStack {
+    private int[] data;
+    private int top = -1;                 // -1 means empty
 
-        for (int i = stack.length; i >= 0; i++) {
-            top--;
-            stack[top] = i;
-        }
+    public ArrayStack(int capacity) {
+        data = new int[capacity];
+    }
 
-        System.out.println("Popping order:");
-        while (top >= 0) {
-            int popped = stack[top];
-            top--;
-            System.out.println(popped);
-        }
-        // Output: 5, 4, 3, 2, 1, 0
+    public boolean isEmpty() { return top == -1; }
+    public boolean isFull()  { return top == data.length - 1; }
+    public int size()        { return top + 1; }
+
+    public void push(int e) {
+        if (isFull()) throw new RuntimeException("Stack overflow");
+        top++;
+        data[top] = e;
+    }
+
+    public int pop() {
+        if (isEmpty()) throw new RuntimeException("Stack empty");
+        int value = data[top];
+        top--;
+        return value;
+    }
+
+    public int peek() {
+        if (isEmpty()) throw new RuntimeException("Stack empty");
+        return data[top];
     }
 }
 ```
-### Using Linked List 
-- Array is the better an more efficient way to implement a stack 
 
-![[BCCA247F-BC0A-4B51-93AA-7C0049D7FE14.jpeg]]
-## Stack Application (Polish Notation) : 
-### What we'll use this for
-- Convert manually infix expression to prefix and postfix notation 
-- Evaluate the value of (infix, prefix, and postfix expressions ) - using stacks
-- Algorithmically convert infix to pre/postfix notation
-### What is Prefix, Postfix, and Infix
-**These are all just different name for where the operator is in the expression**
-- Prefix - x = +ab 
-- Postfix - x = ab+
-- Infix - x = a + b
-
-### Manual Conversion 
-```python 
-# Examples
-
-a,b,c = 1,2,3
-x = a + b * c
-# Output is 7 
-
-# Prefix version 
-x = +a*bc
-
-# Postfix
-x = abc*+
-
-# Example 2 
-x = a + b + c - d
-
-# Prefix 
-x = -++abcd
-
-# Postfix 
-x = ab+c+d-
-
-# Example 3
-x = M - (x-y) * t / k
-
-# Prefix
- x = -m/*-xytk
- 
-# Postfix
-x = Mxy-t*k/-
-
-# Example 3 
-x = ((v-w) * M) + (L*K) - A
-
-#Prefix 
-x = -+*-vwm*lka
-
-# Postfix
-x = vw-m*lk*+a-
-
+Example: push 0, 1, 2, 3, 4, 5 into a stack of capacity 6.
 
 ```
+index:  0  1  2  3  4  5
+data:  [0, 1, 2, 3, 4, 5]     top = 5 (stack is full)
+```
 
+Popping everything returns **5, 4, 3, 2, 1, 0**: reverse order of insertion.
 
-## Evaluating Infix expressions using Stacks 
-- x = 30 - 10 * 2 + 50 = (60)
-- So first you parenthesis the expression (based on order of operations)
-- You need to two stacks | One for the operators | One for the Operands(numbers)
-- When you reach a right parenthesis you apply the top operator of the operator stack(pop() the top of operator stack) to the top 2 numbers of the operand stack (pop() the two numbers of operands stack into variables and push the new number you got )
+## Implementation 2: Linked List
+
+- The **head** of the list is the **top** of the stack.
+- `push` = insert a new node at the head. `pop` = remove the head.
+- Both are O(1), and the stack never gets "full" (it grows as needed).
+
+```java
+public void push(int e) {
+    Node n = new Node(e);
+    n.next = head;
+    head = n;
+}
+
+public int pop() {
+    if (head == null) throw new RuntimeException("Stack empty");
+    int value = head.data;
+    head = head.next;
+    return value;
+}
+```
+
+![[BCCA247F-BC0A-4B51-93AA-7C0049D7FE14.jpeg]]
+
+| | Array stack | Linked list stack |
+| --- | --- | --- |
+| push / pop | O(1) | O(1) |
+| Size limit | Fixed capacity (can be full) | No limit |
+| Extra memory | None | One `next` reference per node |
+
+In class, the **array** was called the more efficient choice: no extra references and better memory locality.
+
+---
+
+## Stack Application: Polish Notation
+
+### Goals for this unit
+
+- Convert infix expressions to **prefix** and **postfix** by hand
+- **Evaluate** infix, prefix, and postfix expressions using stacks
+- Convert infix to prefix/postfix **algorithmically** ([[Data Structures & Algos/Class Notes/Lecture 6|Lecture 6]])
+
+### Infix, prefix, postfix
+
+They differ only in **where the operator goes**:
+
+| Notation | Operator position | `a + b` |
+| --- | --- | --- |
+| **Infix** | Between operands | `a + b` |
+| **Prefix** (Polish) | Before operands | `+ a b` |
+| **Postfix** (Reverse Polish) | After operands | `a b +` |
+
+Prefix and postfix **never need parentheses**; the order of the symbols alone fixes the order of operations.
+
+### Manual conversion method
+
+1. **Fully parenthesize** the infix expression using order of operations (`*` `/` before `+` `-`, then left to right).
+2. **Prefix:** move each operator to replace its **left** parenthesis. **Postfix:** move each operator to replace its **right** parenthesis.
+3. Remove the remaining parentheses.
+
+Example: `a + b * c` → `(a + (b * c))`
+
+- Prefix: `+ a * b c`
+- Postfix: `a b c * +`
+
+### Worked examples
+
+| Infix | Fully parenthesized | Prefix | Postfix |
+| --- | --- | --- | --- |
+| `a + b * c` | `(a + (b * c))` | `+a*bc` | `abc*+` |
+| `a + b + c - d` | `(((a + b) + c) - d)` | `-++abcd` | `ab+c+d-` |
+| `M - (x - y) * t / k` | `(M - (((x - y) * t) / k))` | `-M/*-xytk` | `Mxy-t*k/-` |
+| `((v - w) * M) + (L * K) - A` | `((((v - w) * M) + (L * K)) - A)` | `-+*-vwM*LKA` | `vw-M*LK*+A-` |
+
+Check: with a = 1, b = 2, c = 3, `a + b * c` = 1 + 6 = **7** in every notation.
+
+---
+
+## Evaluating infix with two stacks
+
+Example: `30 - 10 * 2 + 50` = **60**
+
+1. **Fully parenthesize:** `((30 - (10 * 2)) + 50)`
+2. Use **two stacks**: one for **operands** (numbers), one for **operators**.
+3. Scan left to right:
+    - **Number** → push onto the operand stack
+    - **Operator** → push onto the operator stack
+    - **`(`** → ignore
+    - **`)`** → pop one operator, pop two operands, compute **(second popped) op (first popped)**, push the result
+
+| Token | Action | Operand stack | Operator stack |
+| --- | --- | --- | --- |
+| `(` `(` | ignore | [] | [] |
+| 30 | push | [30] | [] |
+| − | push | [30] | [−] |
+| `(` | ignore | [30] | [−] |
+| 10 | push | [30, 10] | [−] |
+| * | push | [30, 10] | [−, *] |
+| 2 | push | [30, 10, 2] | [−, *] |
+| `)` | 10 * 2 = 20 | [30, 20] | [−] |
+| `)` | 30 − 20 = 10 | [10] | [] |
+| + | push | [10] | [+] |
+| 50 | push | [10, 50] | [+] |
+| `)` | 10 + 50 = 60 | [60] | [] |
+
+The last value on the operand stack is the answer: **60**.
+
+Watch the operand order: the **first** number popped is the **right** operand. That matters for − and /.
+
+Next: evaluating prefix/postfix and the conversion algorithms → [[Data Structures & Algos/Class Notes/Lecture 6|Lecture 6]]

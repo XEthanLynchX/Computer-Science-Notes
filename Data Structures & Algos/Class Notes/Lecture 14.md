@@ -1,4 +1,6 @@
-# Binary Search Tree (BST) Notes
+[[Data Structures & Algos/Class Notes/Lectures|← All lectures]]
+
+# Lecture 14: Binary Search Trees (BST)
 
 **BST rule:** for every node, everything in its **left** subtree is **smaller**, and everything in its **right** subtree is **larger**.
 

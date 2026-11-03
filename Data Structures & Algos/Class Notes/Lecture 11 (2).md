@@ -1,4 +1,6 @@
-# Advanced Sorting Algorithms
+[[Data Structures & Algos/Class Notes/Lectures|← All lectures]]
+
+# Lecture 11: Advanced Sorting Algorithms
 
 ---
 

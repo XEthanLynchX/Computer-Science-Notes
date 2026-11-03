@@ -1,80 +1,136 @@
-# Abstract Data Type (ADT) 
-- Idea, logical view, conceptual view 
-- Description of set of data elements and methods to manipulate the data 
-- Methods are described in terms of pre condition and post condition 
-- **Precondition** the status of the elements before method is executed  
-- **Postcondition** the status of the elements after the method is executed and how did it change
+[[Data Structures & Algos/Class Notes/Lectures|← All lectures]]
 
-# Data Structure 
-* A data structure is a way of organizing and storing data in a computer so that it can be accessed and used efficiently. It refers to the logical or mathematical representation of data, as well as the implementation in a computer program.
-- Implementation 
-- Physical view
-- Implementation (Data Structure)
+# Lecture 2: ADTs, Data Structures & Memory Allocation
 
-# Memory allocation 
-- **Declaring** space in memory is creating a space in memory WITHOUT giving it a value 
-- **Initializing** in memory means declaring space in memory then giving it a value
+## Abstract Data Type (ADT)
+
+An **ADT** is the **logical / conceptual view** of data: *what* it stores and *what operations* you can do, with no detail about *how* it's built.
+
+- Describes a **set of data elements** and the **methods** that manipulate them.
+- Each method is described with a **precondition** and a **postcondition**:
+
+| Term | Meaning | Example: `pop()` on a stack |
+| --- | --- | --- |
+| **Precondition** | What must be true **before** the method runs | The stack is not empty |
+| **Postcondition** | What is true **after** it runs, and how the data changed | The top element is removed and returned; size went down by 1 |
+
+## Data Structure
+
+A **data structure** is the **implementation** (physical view) of an ADT: the actual way data is organized in memory so it can be accessed and used efficiently.
+
+| | ADT | Data Structure |
+| --- | --- | --- |
+| View | Logical / conceptual | Physical / implementation |
+| Answers | *What* can it do? | *How* is it done? |
+| Example | Stack (push, pop, peek) | Stack built with an array, or with a linked list |
+
+One ADT can have many data structures behind it.
+
+## Memory Allocation
+
+| Term | Meaning | Java |
+| --- | --- | --- |
+| **Declare** | Create a name (reference) without a value or space for the data | `int[] A;` |
+| **Allocate** | Reserve space in memory for the data | `A = new int[5];` |
+| **Initialize** | Give the space its first value | `int y = 10;` or `A[0] = 7;` |
+
 ```java
+int[] A;           // declare: A exists but points to nothing yet
+A = new int[5];    // allocate: space for 5 ints (all start at 0 in Java)
+A[0] = 7;          // initialize an element
+```
 
-//Example 
-//This where we declare space in memory
-int [] A; 
-//Here is where we allocate space in memory 
-A = new Int[5]
+There are three kinds of memory space:
+
+### 1. Single space
+
+One variable, one value: `int x;` or `int y = 10;`
+
+### 2. Contiguous space (arrays)
+
+`int[] A = new int[5];`
+
+- The elements sit **side by side** in one block of memory.
+- The array gets one **base address** (where element 0 starts).
+- Any element is found with the **access formula**:
+
+**Address of A[i] = Base Address + (i × size of one element)**
+
+Example: base address = 1000, `int` = 4 bytes → A[3] is at 1000 + (3 × 4) = **1012**.
+
+This is why array access by index is **O(1)**: it's one calculation, no searching.
+
+### 3. Linked space (linked lists)
+
+- Each **node** is a separate object holding a **value** and a **reference (pointer) to the next node**.
+- Nodes can be anywhere in memory; the `next` references chain them together.
+- The last node's `next` is `null`.
+- A linked list is a **recursive structure**: a node followed by a (smaller) linked list.
 
 ```
-### Single space (int x; int y = 10)
-
-### Continguous space (int[] A = new Int [5])
-- When allocating space in memory first the compiler will assign an address to the array itself then it will create an **access formula** to access the different elements of the array
-- The access formula is as given F(i)= Base Address + (i * length of an element)  
-## Linked space ( Linked list)
-- Each node is an object and has a value associated along with a an pointer to the next node 
-```java 
-Node temp = new Node(20)
-// n1 becomes an access point to the head of the linked list
-n1.next = temp 
-// The temp link to the linked list is removed when set to null
-temp = null
-//n2 becomes an allias to access n1 
-n2 = n1 
-// Inaccessible Space (there is no longer a way to access the linked list) 
-n1 = temp 
-n2 temp 
-
+head
+ |
+[10 | •]--> [20 | •]--> [30 | null]
 ```
-- A linked list is a recursive structure 
-- To transverse through a linked list use While loops (using a tmp variable | Use While (tmp != null))
-- ```java
-  Node L = New Node (4);
-  Node temp;
-  temp = L 
-  While(temp != null){ 
-	  System.out.print(temp.data)
-	  temp.next
-  }
-  ```
-## Method to find x in linked list 
-```java
-Public static boolean Find(Linked List L, String target){ 
-	if(L == null){ 
-	return False
-	} else if(L.next == null){ 
-		if (L == target){ 
-		return True 
-		} else {
-		return False
-		}
-	}else{ 
-	temp = L 
-	while (temp != null){ 
-		if (temp = target ){ 
-		return true 
-		}
-		temp.next() 
-	}
-	return False
-	}
 
+## Linked list references in code
+
+```java
+Node n1 = new Node(10);   // n1 is the head (access point to the list)
+Node temp = new Node(20);
+n1.next = temp;           // link: 10 -> 20
+temp = null;              // temp no longer points to 20, but n1.next still does
+
+Node n2 = n1;             // n2 is an ALIAS: a second reference to the same node
+n1 = null;                // list still reachable through n2
+n2 = null;                // now NOTHING points to the list → inaccessible
+```
+
+Once no reference points to a node, it's **inaccessible** (garbage); Java's garbage collector reclaims it. Losing your only reference to the head loses the whole list.
+
+## Traversing a linked list
+
+Use a temporary pointer and a `while` loop that stops at `null`:
+
+```java
+Node temp = head;
+while (temp != null) {
+    System.out.print(temp.data + " ");
+    temp = temp.next;       // move forward (don't forget this, or it loops forever)
 }
 ```
+
+Traversal is **O(n)**: unlike an array, you can't jump to element i.
+
+## Searching a linked list for a target
+
+```java
+public static boolean find(Node head, String target) {
+    Node temp = head;
+    while (temp != null) {                 // also handles an empty list (head == null)
+        if (temp.data.equals(target)) {    // compare the DATA, and use .equals for Strings
+            return true;
+        }
+        temp = temp.next;
+    }
+    return false;
+}
+```
+
+Common mistakes fixed here:
+
+- Compare `temp.data` to the target, not the node itself.
+- Use `.equals()` for Strings, not `==` (and never `=`, which assigns).
+- Advance with `temp = temp.next;` (just `temp.next` does nothing).
+- No special case is needed for a one-node list; the loop handles it.
+
+## Array vs. Linked List
+
+| | Array (contiguous) | Linked list (linked) |
+| --- | --- | --- |
+| Access element i | **O(1)** via access formula | O(n), must walk from head |
+| Insert/delete in middle | O(n), shift elements | **O(1)** once you're at the spot |
+| Size | Fixed when allocated | Grows and shrinks as needed |
+| Extra memory | None | One `next` reference per node |
+
+Next: inserting and removing nodes → [[Data Structures & Algos/Class Notes/Lecture 3|Lecture 3]]

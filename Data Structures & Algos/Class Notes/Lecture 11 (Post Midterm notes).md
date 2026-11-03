@@ -1,4 +1,6 @@
-# Stable vs. Unstable & In-Place Sorting
+[[Data Structures & Algos/Class Notes/Lectures|← All lectures]]
+
+# Lecture 11 (Post-Midterm): Stable vs. Unstable & In-Place Sorting
 
 ---
 

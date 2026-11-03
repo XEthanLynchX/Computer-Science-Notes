@@ -1,4 +1,6 @@
-# Simple Sorting Algorithms
+[[Data Structures & Algos/Class Notes/Lectures|← All lectures]]
+
+# Lecture 10: Simple Sorting Algorithms
 
 Bubble Sort · Selection Sort · Insertion Sort
 
