@@ -59,9 +59,21 @@
             "id": "a379e9d677d73cd4",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Data Structures & Algos/Class Notes/imgs/BBEBC899-1A07-438D-BC9F-7117F05E2601_1_105_c.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "BBEBC899-1A07-438D-BC9F-7117F05E2601_1_105_c"
+            }
+          },
+          {
+            "id": "569f730b769e1c8e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures & Algos/Class Notes/Lecture 15.md",
+                "file": "Data Structures & Algos/Class Notes/Lecture 17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +88,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lecture 15"
+              "title": "Lecture 17"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -236,7 +248,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,33 +266,40 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "a379e9d677d73cd4",
+  "active": "569f730b769e1c8e",
   "lastOpenFiles": [
-    "Data Structures & Algos/Class Notes/Lectures.md",
-    "Data Structures & Algos/Class Notes/Lecture.md",
+    "Data Structures & Algos/Class Notes/imgs/BCCA247F-BC0A-4B51-93AA-7C0049D7FE14.jpeg",
+    "Data Structures & Algos/Class Notes/imgs/BBEBC899-1A07-438D-BC9F-7117F05E2601_1_105_c.jpeg",
+    "Data Structures & Algos/Class Notes/imgs/B3500CCE-1B74-40F0-9AEF-052BCE99D96C.jpeg",
+    "Data Structures & Algos/Class Notes/imgs/394D5EE5-46C8-4AEE-B647-CAF3B4B4810F_4_5005_c.jpeg",
+    "Data Structures & Algos/Class Notes/imgs/71EDA44E-92C0-4552-B68E-E992F5E7DEA9_1_102_o.jpeg",
+    "Data Structures & Algos/Class Notes/imgs/354E0780-97AE-4E07-84DC-436A1075D27D_1_105_c.jpeg",
+    "Data Structures & Algos/Class Notes/imgs/66C8CC24-D945-4D6A-A901-E7913DFA10A9.jpeg",
+    "Data Structures & Algos/Class Notes/imgs/25B4E8A7-DC59-450F-8B5D-B373B6F461FD_1_105_c.jpeg",
+    "Data Structures & Algos/Class Notes/imgs/63FE6493-EEEB-4D37-96C6-9B5ECBF71641_1_102_o.jpeg",
+    "Data Structures & Algos/Class Notes/imgs/8FDB3A66-AE10-4181-BC08-228B4941F830_1_105_c 1.jpeg",
+    "Data Structures & Algos/Class Notes/imgs/8FDB3A66-AE10-4181-BC08-228B4941F830_1_105_c.jpeg",
+    "Data Structures & Algos/Class Notes/Lecture 17.md",
     "Data Structures & Algos/Class Notes/Lecture 16.md",
-    "Data Structures & Algos/Class Notes/Lecture 7.md",
     "Data Structures & Algos/Class Notes/Lecture 6.md",
     "Data Structures & Algos/Class Notes/Lecture 5.md",
+    "Data Structures & Algos/Class Notes/Lecture 7.md",
     "Data Structures & Algos/Class Notes/Lecture 8.md",
+    "Data Structures & Algos/Class Notes/Lecture 13.md",
+    "Data Structures & Algos/Class Notes/Lecture 14.md",
+    "Data Structures & Algos/Class Notes/Lecture 15.md",
+    "Data Structures & Algos/Class Notes/Lectures.md",
+    "Data Structures & Algos/Class Notes/Lecture.md",
     "Data Structures & Algos/Class Notes/Lecture 3.md",
     "Data Structures & Algos/Class Notes/Lecture 2.md",
     "Data Structures & Algos/Class Notes/Lecture 1.md",
-    "Data Structures & Algos/Class Notes/Lecture 15.md",
-    "Data Structures & Algos/Class Notes/Lecture 14.md",
     "Data Structures & Algos/Class Notes/Lecture 10.md",
-    "Data Structures & Algos/Class Notes/Lecture 13.md",
     "Data Structures & Algos/Class Notes/Lecture 12.md",
     "Data Structures & Algos/Class Notes/Lecture 11 (Post Midterm notes).md",
     "Data Structures & Algos/Class Notes/Lecture 11 (2).md",
-    "Recursion Example.png",
     "Pro and Cons of each Data Structure.md",
     "LEc.md",
-    "Data Structures & Algos/Class Notes/imgs/BCCA247F-BC0A-4B51-93AA-7C0049D7FE14.jpeg",
     "Data Structures & Algos/Class Notes/imgs",
-    "Data Structures & Algos/Class Notes/imgs/63FE6493-EEEB-4D37-96C6-9B5ECBF71641_1_102_o.jpeg",
-    "Data Structures & Algos/Class Notes/imgs/1C79FD5E-A354-469F-B669-D6DB3580EF06.jpeg",
-    "Data Structures & Algos/Class Notes/imgs/394D5EE5-46C8-4AEE-B647-CAF3B4B4810F_4_5005_c.jpeg",
     "Data Structures & Algos/Arrays & Hashing/Reverse Vowels.md",
     "Data Structures & Algos/Arrays & Hashing/Contains Duplicate.md",
     "Data Structures & Algos/Arrays & Hashing/FizzBuzz.md",
@@ -287,16 +307,9 @@
     "Excalidraw",
     "Yt Scripts/What about I went from sleeping in my car at 18 to never stressing about money again..md",
     "Yt Scripts",
-    "Data Structures & Algos/Class Notes/imgs/71EDA44E-92C0-4552-B68E-E992F5E7DEA9_1_102_o.jpeg",
-    "Programming Course/Intro to AI/Lecture 1.md",
     "Programming Course/Intro to AI",
-    "Data Structures & Algos/Linked Lists/Reverse Linked List.md",
-    "Data Structures & Algos/imgs/Valid Palindrome Solution.png",
-    "Science/imgs/Chapter 1.7 chart.png",
     "Science/imgs",
     "Data Structures & Algos/Class Notes",
-    "Data Structures & Algos/imgs/Remove Nth Node From End of List problem.png",
-    "Data Structures & Algos/imgs/Reorder Linked Lists problem.png",
     "Programming Course/Container Engines/Podman",
     "Programming Course/Container Engines",
     "Cargill/imgs",

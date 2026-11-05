@@ -163,3 +163,7 @@ All three operations follow a single path from the root downward, so each one is
 |Skewed (looks like a linked list)|n|**O(n)** worst case|
 
 Inserting values in sorted order (for example 10, 20, 30, 40) produces the worst case: a tree with every node on one side.
+
+### Lecture Notes
+![[1FBC5A23-AEBA-4867-9244-9FC59CEA584E_1_105_c 1.jpeg]]
+![[8FDB3A66-AE10-4181-BC08-228B4941F830_1_105_c 1.jpeg]]

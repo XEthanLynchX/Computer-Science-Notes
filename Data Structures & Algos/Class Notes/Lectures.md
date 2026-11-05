@@ -34,5 +34,6 @@
 | [[Data Structures & Algos/Class Notes/Lecture 14\|Lecture 14]] | Binary Search Trees (BST) | Insert, search, delete (3 cases), O(h) |
 | [[Data Structures & Algos/Class Notes/Lecture 15\|Lecture 15]] | Array Representation & Tree Traversals | Index formulas, preorder/inorder/postorder, level-order (BFS) |
 | [[Data Structures & Algos/Class Notes/Lecture 16\|Lecture 16]] | Heap Trees & Priority Queues | Upward/downward reheapification, building a heap, heapsort |
+| [[Data Structures & Algos/Class Notes/Lecture 17\|Lecture 17]] | Tree Traversals & Expression Trees | Pre/in/postorder, expression trees, building a tree from infix with two stacks |
 
 *No notes yet for Lectures 4 and 9.*

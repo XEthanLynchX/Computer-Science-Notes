@@ -247,3 +247,5 @@ while (!queue.isEmpty()) {
 |Data structure|Stack (or recursion)|Queue|
 |Explores|Deep first, then backtracks|Wide first, level by level|
 |Extra space|O(h), the height|O(w), the width|
+
+### Lecture Notes

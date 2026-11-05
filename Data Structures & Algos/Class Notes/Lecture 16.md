@@ -132,3 +132,8 @@ Aside: a heap can also be built bottom-up (sift down from the last parent to the
 - Equal values don't swap; ≥ already holds.
 - Check your answer: every parent ≥ its children, and the max sits at the root.
 - Practice: build a heap from 5, 20, 15, 8, 30, 25, then delete the root twice.
+
+### Lecture Notes
+![[354E0780-97AE-4E07-84DC-436A1075D27D_1_105_c.jpeg]]
+![[BBEBC899-1A07-438D-BC9F-7117F05E2601_1_105_c.jpeg]]
+![[25B4E8A7-DC59-450F-8B5D-B373B6F461FD_1_105_c.jpeg]]
